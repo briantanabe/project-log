@@ -1,4 +1,4 @@
-# Hi! I'm Brian, and these are my projects.
+# Hi there! I'm Brian, and these are my projects
 
 Hi! I'm Brian, and this is my project log! Definitely a work in progress right now, but feel free to poke around.
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTc3NjQ1MCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTQ3MjU4OTY0NCwtMzMyNDU1MzYzXX0=
 -->
