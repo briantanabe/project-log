@@ -1,10 +1,10 @@
-# Welcome to StackEdit!
+# I'm Brian, and these are my projects!
 
 Hi! I'm Brian, and this is my project log! Definitely a work in progress right now, but feel free to poke around.
 
 # Projects
 
-
+**I'm still learning to use StackEdit**, so everything below is parts of the tutorial I haven't read yet.
 
 ## Create files and folders
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTYyNzkzNCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTkxODUyODk3MSwtMzMyNDU1MzYzXX0=
 -->
