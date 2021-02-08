@@ -1,12 +1,12 @@
 # Hey! I'm Brian, and this is my log
 Definitely a work in progress right now, but feel free to poke around.
 
-## Projects
+## This is a work in progress
 
-**I'm still learning to use StackEdit**, so everything below is parts of the tutorial I haven't read yet.
+**I'm still learning to use Markdown**, so everything below is parts of the tutorial I haven't read yet.
 
 
-# Markdown extensions
+# Extensions
 
 StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
 
@@ -63,5 +63,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI5NjEyOTcsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTkwMDgyNDgzOSwtMzMyNDU1MzYzXX0=
 -->
