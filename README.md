@@ -1,8 +1,8 @@
 # Hi there! I'm Brian, and these are my projects
 
-Hi! I'm Brian, and this is my project log! Definitely a work in progress right now, but feel free to poke around.
+Definitely a work in progress right now, but feel free to poke around.
 
-# Projects
+## Projects
 
 **I'm still learning to use StackEdit**, so everything below is parts of the tutorial I haven't read yet.
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjU4OTY0NCwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE2OTIzOTg0NDcsLTMzMjQ1NTM2M119
 -->
