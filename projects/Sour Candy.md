@@ -12,10 +12,10 @@ The goals here are pretty straightforward:
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-I want to spend this first project getting a sense of what the actual process of making Sour candy looks like, as well as ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are gelatin, citric acid, water, sugar. I also got pec
+I want to spend this first project getting a sense of what the actual process of making Sour candy looks like, as well as ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are **gelatin**, **citric acid**, **water**, and **sugar**. I also got **pectin** (*after remembering the time I made Jello Shots for my vegetarian friends*), though I suspect like many vegan substitutes, it may be harder to get right. 
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Pectin#Chemistry), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA3OTgxNTUsNzY5OTA0MzYwLC0xND
-g0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbLTY0MjYwMjM2Nyw3Njk5MDQzNjAsLTE0OD
+QwNDk2NTZdfQ==
 -->
