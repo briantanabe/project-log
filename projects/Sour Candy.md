@@ -21,12 +21,12 @@ I want to spend this first project getting a sense of the actual process and obt
 **Research on Gelatin:**
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
 
-**Research on Pectin:**
-
+**Research on Pectin:** *Note: Fine cooking has amazing food chemistry primers*
+Pectin is a long chain of polysaccharides (a carbohydrate), used to hold cells together (like
 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNT
-czNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjE0NTg5NDQsLTE1MzgxOTY2MjQsMT
+c4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQz
+NjAsLTE0ODQwNDk2NTZdfQ==
 -->
