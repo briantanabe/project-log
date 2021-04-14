@@ -29,13 +29,13 @@ Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the ce
 From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is a negative molecule that repels itself and is attracted to water. In the presence of acid (positive hydrogen ions), however, the negative charges will be somewhat neutralized. By heating pectin and acid, the pectin chains will loosen and form a loose matrix. Sugar will additionally attract the water molecules, competing with the pectin for water and tightening the chains. Slowly removing the water then firms the network into a sugar-acid-pectin gel, though the required ratios are reportedly very finicky. **This means fast set pectin has higher methylation levels (more methoxyl)** [(Cyber Colloids)](http://www.cybercolloids.net/information/technical-articles/introduction-pectin-properties).
 
 **Research on Citric Acid:**
-Citric acid is lar
+Though originally derived from lemons, Citric acid is largely manufactured and sold in powdered form. 
 
 ## Strategy
 **Binding**
 Unsurprisingly there is more online praise for animal based gelatin, though it appears it's largely used for sauces and desserts. I actually suspect pectin may produce a better texture under the right conditions as it requires a low PH to set; however, I worry that getting the sugar/acid/pectin ratio right may complicate evaluating pectin vs gelatin. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyODI3MjcxLDE2OTMwMDIxOTUsLTE1Mz
-gxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQy
-OCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMT
+UzODE5NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1
+NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
