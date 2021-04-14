@@ -17,8 +17,7 @@ I want to spend this first project getting a sense of what the actual process of
 ### Trial 1
 
 **Hypothesis**: 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Pectin#Chemistry), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4ND
-A0OTY1Nl19
+eyJoaXN0b3J5IjpbOTQ3OTkyNDUwLDcxNTUyNTQyOCw3Njk5MD
+QzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
