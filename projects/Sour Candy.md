@@ -24,11 +24,11 @@ Gelatin is commercially produced by first soaked pig skin in acid to release col
 **Research on Pectin:** *Note: Fine cooking has amazing food chemistry primers*
 Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the cell walls of plants together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with calcium, though HM pectin is far more common (though not always specified).
 
-**There are two kinds of HM pectin**, rapid set and slow set, and from what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is the 
+**There are two kinds of HM pectin**, rapid set and slow set, and from what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is the 
 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzkxNjYzMSwxNjkzMDAyMTk1LC0xNT
+eyJoaXN0b3J5IjpbMTQ2NTI4Njc4MiwxNjkzMDAyMTk1LC0xNT
 M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
 MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
 -->
