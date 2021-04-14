@@ -5,10 +5,11 @@
 **I  LOVE sour patch kids**, and after hitting [Google](http://www.grouprecipes.com/137183/homemade-sour-patch-kids.html), it looked pretty straightforward. I'm sure it will be harder than it looks (*[ahem](https://www.youtube.com/watch?v=ppi0khS0s_8)*), so I decided to just give it a try!
 
 ## Goals
+There are two primary goals here:
 
 *Started on Tuesday, April 13 at 8:30PM*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1OTM3MTYsODAxODQ5OTI1XX0=
+eyJoaXN0b3J5IjpbMTc0NzAxMzMxNCw4MDE4NDk5MjVdfQ==
 -->
