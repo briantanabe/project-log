@@ -16,10 +16,10 @@ I want to spend this first project getting a sense of what the actual process of
 
 ### Trial 1
 
-**Research on Gelatin:** According to [this article](https://www.finecooking.com/article/the-science-of-gelatin), gelatin is typically produced from pig skin soaked in 
+**Research on Gelatin:** According to [Science of Cooking](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.), gelatin is created by heating ge[this article](https://www.finecooking.com/article/the-science-of-gelatin), gelatin is typically produced from pig skin soaked in acid 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODU1Mjk4NiwxNzgwNDEzNDg2LDE1Nz
-M1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1
-Nl19
+eyJoaXN0b3J5IjpbLTIwMTA4MDQ3OTUsMTc4MDQxMzQ4NiwxNT
+czNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2
+NTZdfQ==
 -->
