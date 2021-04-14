@@ -16,9 +16,9 @@ I want to spend this first project getting a sense of what the actual process of
 
 ### Trial 1
 
-**Research on Gelatin:** 
+**Research on Gelatin:** According to [this article](https://www.finecooking.com/article/the-science-of-gelatin), 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDE3NTQ0OCwxNTczNTI4ODIwLDcxNT
+eyJoaXN0b3J5IjpbMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNT
 UyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
