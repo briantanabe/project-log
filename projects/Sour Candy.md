@@ -22,15 +22,17 @@ I want to spend this first project getting a sense of the actual process and obt
 **Research on Gelatin:**
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
 
-**Research on Pectin:** *Note: Fine cooking has amazing food chemistry primers*
+**Research on Pectin:**
+*Note: Fine cooking has amazing food chemistry primers*
 Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the cell walls of plants together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with the addition of calcium, and HM pectin is far more common (though not always specified).
 
 From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is a negative molecule that repels itself and is attracted to water. In the presence of acid (positive hydrogen ions), however, the negative charges will be somewhat neutralized. By heating pectin and acid, the pectin chains will loosen and form a loose matrix. Sugar will additionally attract the water molecules, competing with the pectin for water and tightening the chains. Slowly removing the water then firms the network into a sugar-acid-pectin gel, though the required ratios are reportedly very finicky. **This means fast set pectin has higher methylation levels (more methoxyl)** [(Cyber Colloids)](http://www.cybercolloids.net/information/technical-articles/introduction-pectin-properties).
 
 ## Strategy
-Unsurprisingly there is more online praise for animal based gelatin, though it appears it's largely used for sauces and desserts. I actually suspect pectin may produce a better texture under the right conditions as it actu given that it requires a lower PH to set; however, I worry that getting the ratio right may complicate 
+**Binding**
+Unsurprisingly there is more online praise for animal based gelatin, though it appears it's largely used for sauces and desserts. I actually suspect pectin may produce a better texture under the right conditions as it requires a low PH to set; however, I worry that getting the sugar/acid/pectin ratio right may complicate evaluating pectin vs gelatin. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzY3NzQ2OCwxNjkzMDAyMTk1LC0xNT
+eyJoaXN0b3J5IjpbLTE3NTg2NjUxMCwxNjkzMDAyMTk1LC0xNT
 M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
 MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
 -->
