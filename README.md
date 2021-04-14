@@ -1,9 +1,9 @@
 # Hey! I'm Brian, and this is my log
-Definitely a work in progress right now, but feel free to poke around.
+**I'm still learning to use Markdown** , so definitely a work in progress right now... But feel free to poke around!
 
-## This is a work in progress
+## Project List
 
-**I'm still learning to use Markdown**, so everything below is parts of the tutorial I haven't read yet.
+Sour Candy
 
 
 # Extensions
@@ -63,5 +63,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDgyNDgzOSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNDI4NzcwMTM3LDE5MDA4MjQ4MzksLTMzMj
+Q1NTM2M119
 -->
