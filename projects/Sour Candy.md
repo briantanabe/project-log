@@ -12,8 +12,10 @@ The goals here are pretty straightforward:
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-Accorind
+
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Pectin#Chemistry), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjQwMTkzOSw3Njk5MDQzNjAsLTE0OD
+eyJoaXN0b3J5IjpbLTE3NDYzODM5Miw3Njk5MDQzNjAsLTE0OD
 QwNDk2NTZdfQ==
 -->
