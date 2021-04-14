@@ -8,13 +8,13 @@
 
 ## Goals
 The goals here are pretty straightforward:
-1. Make some candy
+1. Make some candy --> All proceeds will be going to the roommates
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-All proceeds from this project will go to the roommates, and I will be doc
+All proceeds from this project will go to the roommates, and I will be documenting this process as I do it, but the third bullet will take some explanation. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzk4MjY1XX0=
+eyJoaXN0b3J5IjpbLTg4NDI0MDg4OV19
 -->
