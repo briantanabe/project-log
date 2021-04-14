@@ -25,11 +25,12 @@ Gelatin is commercially produced by first soaked pig skin in acid to release col
 **Research on Pectin:** *Note: Fine cooking has amazing food chemistry primers*
 Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the cell walls of plants together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with the addition of calcium, and HM pectin is far more common (though not always specified).
 
-From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is a negative molecule that repels itself and is attracted to water. In the presence of acid (positive hydrogen ions), however, the negative charges will be somewhat neutralized. By heating pectin and acid, the pectin chains will loosen and form a loose matrix. Sugar will additionally attract the water molecules, competing with the pectin for water and tightening the chains. Slowly removing the water then firms the network into a sugar-acid-pectin gel, though the required ratios are reportedly very finicky. This means fast vs slow set pectin 
+From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is a negative molecule that repels itself and is attracted to water. In the presence of acid (positive hydrogen ions), however, the negative charges will be somewhat neutralized. By heating pectin and acid, the pectin chains will loosen and form a loose matrix. Sugar will additionally attract the water molecules, competing with the pectin for water and tightening the chains. Slowly removing the water then firms the network into a sugar-acid-pectin gel, though the required ratios are reportedly very finicky. **This means fast set pectin has higher methylation levels (more methoxyl)** [(Cyber Colloids)](http://www.cybercolloids.net/information/technical-articles/introduction-pectin-properties).
 
-This all checks out with [Cyber Colloids](http://www.cybercolloids.net/information/technical-articles/introduction-pectin-properties) article on Pectin methylation levels, 
+## Strategy
+Gela
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTE0MDAyOCwxNjkzMDAyMTk1LC0xNT
-M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
-MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbMTAxOTAwMTM0LDE2OTMwMDIxOTUsLTE1Mz
+gxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQy
+OCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
