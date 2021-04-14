@@ -2,7 +2,6 @@
 **I'm still learning to use Markdown** , so definitely a work in progress right now... But feel free to poke around!
 
 ## Project List
-
 Sour Candy
 
 
@@ -63,6 +62,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NzcwMTM3LDE5MDA4MjQ4MzksLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbLTIwOTgxMDIwMDksMTkwMDgyNDgzOSwtMz
+MyNDU1MzYzXX0=
 -->
