@@ -1,4 +1,7 @@
 # Project 1: Homemade Sour Candy
+**This is an engineering log**, so why am I documenting the process of making sour candy? Simply put, Markdown is hard, so I wanted to 
+
+
 **I absolutely love sour candy**, and after hitting [Google](http://www.grouprecipes.com/137183/homemade-sour-patch-kids.html), it looked pretty straightforward. I've been trying to document more of my after-work projects, 
 
 
@@ -9,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAzNzU4OTcsODAxODQ5OTI1XX0=
+eyJoaXN0b3J5IjpbLTM1MzUyODM2Niw4MDE4NDk5MjVdfQ==
 -->
