@@ -17,10 +17,10 @@ I want to spend this first project getting a sense of what the actual process of
 ### Trial 1
 
 **Research on Gelatin:**
-Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). Collagen is then turned  to 160-180º F. 
+Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). Collagen is then heated to 160-180º F, at which point it melts into gelatin [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.). To 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjQ3MDQ3OSwxNzgwNDEzNDg2LDE1Nz
-M1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1
-Nl19
+eyJoaXN0b3J5IjpbNjMzNjczODkzLDE3ODA0MTM0ODYsMTU3Mz
+UyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2
+XX0=
 -->
