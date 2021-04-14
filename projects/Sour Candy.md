@@ -16,9 +16,10 @@ I want to spend this first project getting a sense of what the actual process of
 
 ### Trial 1
 
-**Research on Gelatin:** According to [this article](https://www.finecooking.com/article/the-science-of-gelatin), 
+**Research on Gelatin:** According to [this article](https://www.finecooking.com/article/the-science-of-gelatin), gelatin is typically produced from pig skin soaked in 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNT
-UyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTI4ODU1Mjk4NiwxNzgwNDEzNDg2LDE1Nz
+M1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1
+Nl19
 -->
