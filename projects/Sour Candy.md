@@ -12,7 +12,7 @@ The goals here are pretty straightforward:
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-I don't trust online recipes, but since 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
 -->
