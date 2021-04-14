@@ -1,7 +1,5 @@
 # Project 1: Homemade Sour Candy
-**This is an engineering log**, so you might ask why I'm documenting the process of making sour candy. Simply put, *[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  is hard, and documentation is harder*. My hope is that this project will let me focus on learning to document progress  documentation
-
-I've come to love Youtube Channels like [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) and [GreatScott](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ).
+**This is an engineering log**, so you might ask why I'm documenting the process of making sour candy. Simply put, *[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  is hard, and documentation is harder*. My hope is that starting with easier projects will let me focus on learning how to **phrase and describe my progress real time**. I've come to love Youtube Channels like [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) and [GreatScott](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ).
 
 Simply put, Markdown is hard. My *hope* is to better document projects as I complete them, so my practicing 
 
@@ -16,5 +14,5 @@ Simply put, Markdown is hard. My *hope* is to better document projects as I comp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM4MDU2ODQsODAxODQ5OTI1XX0=
+eyJoaXN0b3J5IjpbLTEyNTU0MDIyODcsODAxODQ5OTI1XX0=
 -->
