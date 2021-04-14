@@ -12,10 +12,10 @@ The goals here are pretty straightforward:
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-
+I want to spend this first project getting a sense of what the actual process of making Sour candy looks like, as well as ~~an intuition~~ data about the quantity of ingredients to add. Because I couldn't find 
 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Pectin#Chemistry), 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYzODM5Miw3Njk5MDQzNjAsLTE0OD
-QwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjQ1OTM4NjgsNzY5OTA0MzYwLC0xND
+g0MDQ5NjU2XX0=
 -->
