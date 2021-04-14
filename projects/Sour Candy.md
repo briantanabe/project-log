@@ -1,6 +1,7 @@
-# Homemade Sour Candy
+# Project 1: Homemade Sour Candy
+*Started on Tuesday, April 13 at 8:30PM*
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxODQ5OTI1XX0=
+eyJoaXN0b3J5IjpbMzc2Njg3NzE1LDgwMTg0OTkyNV19
 -->
