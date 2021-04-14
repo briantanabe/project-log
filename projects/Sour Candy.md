@@ -14,15 +14,15 @@ The goals here are pretty straightforward:
 2. Learn Markdown
 3. **Learn about making sour candy**
 
-I want to spend this first project getting a sense of the actual process and obtaining, as well as ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are **gelatin**, **citric acid**, **water**, and **sugar**. I also bought **pectin** (*after remembering the time I made Jello Shots for my vegetarian friends*), though I suspect like many vegan substitutes, it may be harder to get right. 
+I want to spend this first project getting a sense of the actual process and obtaining ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are **gelatin**, **citric acid**, **water**, and **sugar**. I also bought **pectin** (*after remembering the time I made Jello Shots for my vegetarian friends*), though I suspect like many vegan substitutes, it may be harder to get right. 
 
 ### Trial 1
 
 **Research on Gelatin:**
-Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.). Gelatin is an interesting protein, as it does not readily form bonds with itself, though it will unravel at higher temperatures. Because 
+Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.). Gelatin is a long protein that does not readily form bonds with itself even at higher temperatures. This means that while it can be dissolved 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDI5NTk0NiwxNzgwNDEzNDg2LDE1Nz
-M1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1
-Nl19
+eyJoaXN0b3J5IjpbLTExMTY4NjIxNjQsMTc4MDQxMzQ4NiwxNT
+czNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2
+NTZdfQ==
 -->
