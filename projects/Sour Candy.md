@@ -35,16 +35,16 @@ Though originally derived from lemons, Citric acid is largely manufactured and s
 **Binding**
 Unsurprisingly there is more online praise for animal based gelatin, though it appears it's largely used for sauces and desserts. I actually suspect pectin may produce a better texture under the right conditions as it requires a low pH to set; however, I worry that getting the sugar/acid/pectin ratio right may complicate evaluating pectin vs gelatin.
 
-
-
 **Taste**
 There were a lot of tips to navigate the pH of various added fruits when using pectin, so I suspect various artificial flavorings may have a similar problem.
 
-**What to Test**
+**
+
+## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTMyODY3OSwtMTIwMTgxNTEwNSwtMT
-U1NTE2MTM5NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0
-MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC
-0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNT
+U1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQx
+MzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLT
+E0ODQwNDk2NTZdfQ==
 -->
