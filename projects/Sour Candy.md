@@ -16,9 +16,9 @@ I want to spend this first project getting a sense of what the actual process of
 
 ### Trial 1
 
-**Research on Gelatin:**
+**Research on Gelatin:** 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OT
-A0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbLTI3MDE3NTQ0OCwxNTczNTI4ODIwLDcxNT
+UyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
