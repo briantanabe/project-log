@@ -1,5 +1,5 @@
 # Project 1: Homemade Sour Candy
-**This is an engineering log**, so you might ask why I'm documenting the process of making sour candy. Simply put, *[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  is hard, and documentation is harder*. My hope is that starting with easier projects will let me  focus on learning how to **phrase and describe my progress real time**. So off to the races!
+**This is an engineering log**, so you might ask why I'm documenting the process of making sour candy. Simply put, [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  is hard, and documentation is harder. My hope is that starting with easier projects will let me  focus on learning how to **phrase and describe my progress real time**. So off to the races!
 
 ## Overview
 *Started on Tuesday, April 13 at 8:30PM*
@@ -10,11 +10,11 @@
 The goals here are pretty straightforward:
 1. Make some candy
 2. Learn Markdown
-3. Learn about making sour candy
+3. **Learn about making sour candy**
 
-This 
+All proceeds from this project will go to the roommates, and I will be doc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDgwODg5Ml19
+eyJoaXN0b3J5IjpbLTkyNzk4MjY1XX0=
 -->
