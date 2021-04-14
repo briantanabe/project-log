@@ -22,13 +22,13 @@ I want to spend this first project getting a sense of the actual process and obt
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
 
 **Research on Pectin:** *Note: Fine cooking has amazing food chemistry primers*
-Pectin is a long chain of polysaccharides (a carbohydrate), used to stick cells together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with calcium and is inhibited by sugar [(Chef Steps)](https://www.chefsteps.com/ingredients/lm-pectin#:~:text=The%20main%20use%20for%20pectin,would%20otherwise%20be%20sweet%20juices.), so HM pectin is far more common (though not always specified).
+Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the cell walls of plants together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with calcium, though HM pectin is far more common (though not always specified).
 
-There are two kinds of HM pectin, rapid set and slow set, and from what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is the 
+**There are two kinds of HM pectin**, rapid set and slow set, and from what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is the 
 
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTk5NTU0NSwxNjkzMDAyMTk1LC0xNT
+eyJoaXN0b3J5IjpbMTc2MzkxNjYzMSwxNjkzMDAyMTk1LC0xNT
 M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
 MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
 -->
