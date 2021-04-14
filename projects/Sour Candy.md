@@ -19,10 +19,10 @@ I want to spend this first project getting a sense of the actual process and obt
 ### Trial 1
 
 **Research on Gelatin:**
-Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.). Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does unravel  even at higher temperatures. This means that while it can be dissolved 
+Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.). Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not  (unlike an egg). This means that it can be diss
 **Hypothesis:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTc1MTI0MSwxNzgwNDEzNDg2LDE1Nz
-M1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1
-Nl19
+eyJoaXN0b3J5IjpbLTIxMzI4OTkwNjEsMTc4MDQxMzQ4NiwxNT
+czNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2
+NTZdfQ==
 -->
