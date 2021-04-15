@@ -17,7 +17,7 @@ The goals here are pretty straightforward:
 I want to spend this first project getting a sense of the actual process and obtaining ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are **gelatin**, **citric acid**, **water**, and **sugar**. I also bought **pectin** (*after remembering the time I made Jello Shots for my vegetarian friends*), though I suspect like many vegan substitutes, it may be harder to get right. 
 
 
-## Google
+## Google Facts
 
 **Gelatin:**
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
@@ -43,7 +43,7 @@ Gelatin | Sugar | Water | Citric Acid | Link
 3 envelopes | None | 1 cup | .5 packet Kool-Aid | [Spruce Eats](https://www.thespruceeats.com/sour-gummies-520909)
 
 **Claire Saffitz:**
-If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating 
+If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. 
 
 ## Discussion
 **Binding**
@@ -57,7 +57,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzk4MTYzMiwxMTMyNDM4ODYzLDY1MT
+eyJoaXN0b3J5IjpbMTQ1MTIxNzEyNiwxMTMyNDM4ODYzLDY1MT
 k3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAy
 MTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMC
 w3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
