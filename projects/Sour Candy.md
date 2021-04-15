@@ -128,6 +128,8 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
 Well.. That did **not** go well.
+
+The setup
 - I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
 - I somehow managed to buy LM pectin... So I skipped it
 - I didn't realize our only thermometer was for meat and didn't go to 390º F.
@@ -135,11 +137,11 @@ Well.. That did **not** go well.
 - I should have used easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NjM2ODQzLDExODk1MjUwNzMsNjIzOD
-c5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1MjcsMTI3NjUyNjk2
-MSw5MzE4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4OD
-E2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1
-LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMT
-c4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQz
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzEyMjk5NSwxMTg5NTI1MDczLDYyMz
+g3OTYyOSwtMTMyMTI1NTgwOSwxMDUzNDU3NTI3LDEyNzY1MjY5
+NjEsOTMxODgxMjg5LDgwNTEyNjUxNywtMTQxNzA1ODMzLDIyOD
+gxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEw
+NSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LD
+E3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0
+MzYwXX0=
 -->
