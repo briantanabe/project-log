@@ -61,7 +61,9 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 		- Everyone thought it was too sour
 		- She mixed dehydrated ground lemon rind in for flavoring
 - Final recipe
-	- Dissolve 1 cup sugar, 3tsp water, and 2
+	1. Combine 1 cup sugar, 3tsp water, and 3.25 cup corn syrup in a small sauce pan
+	2. Bring to a boil, stirring to dissolve the sugar, then bring to 290º F
+	3. Bloom 50g gelatin in .5
 
 ## Discussion
 **Binding**
@@ -75,9 +77,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTIwMDg2MCwyMjg4MTYzNjYsMTEzMj
-QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
-OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
-E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
-OTY1Nl19
+eyJoaXN0b3J5IjpbMTIyMjQyNjM2LDIyODgxNjM2NiwxMTMyND
+M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
+NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
+U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
+NjU2XX0=
 -->
