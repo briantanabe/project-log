@@ -78,6 +78,7 @@ I said I would give Claire's method more weight, but given that Sour Patch Kids 
 
 **Cornstarch:** Cornstarch thickens solutions through the process of starch gelatinization. When cornstarch is heated in water, the water fills the cornstarch molecule, swelling it. Under heat and in the presence of water, the amylopectin chains in cornstarch will dissolve. Soon, the granule dissolves as the amylopectin is released into the water. ([Wiki](https://en.wikipedia.org/wiki/Corn_starch)[pedia](https://en.wikipedia.org/wiki/Starch_gelatinization))
 
+[Fine Cooking](https://www.finecooking.com/article/thickeners) Had nothing to add except a great conversion ratio:
 
 
 ## Strategy
@@ -91,9 +92,10 @@ Combine sugar and water |
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODgxMjg5LDgwNTEyNjUxNywtMTQxNz
-A1ODMzLDIyODgxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIxOSwt
-MTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC0xNT
-M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
-MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbLTg5NTY5OTYwNSw5MzE4ODEyODksODA1MT
+I2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMs
+NjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OT
+MwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4
+ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ
+==
 -->
