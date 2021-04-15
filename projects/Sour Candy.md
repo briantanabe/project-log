@@ -63,7 +63,9 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 - Final recipe
 	1. Combine 1 cup sugar, 3tsp water, and 3.25 cup corn syrup in a small sauce pan
 	2. Bring to a boil, stirring to dissolve the sugar, then bring to 290º F
-	3. Bloom 50g gelatin in .5
+	3. Bloom 50g gelatin in .5 cup sour cherry, lemon, or orange juice, then stir in 15g pectin
+	4. Stir the gelatin/pectin mixture into the sugar syrup along with a pinch of salt, 1.25 tsp citric acid, and corresponding fruit extract 
+	5. 
 
 ## Discussion
 **Binding**
@@ -77,9 +79,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjQyNjM2LDIyODgxNjM2NiwxMTMyND
-M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
-NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
-U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
-NjU2XX0=
+eyJoaXN0b3J5IjpbMTIxMTk2MzI0OCwyMjg4MTYzNjYsMTEzMj
+QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
+OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
+E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
+OTY1Nl19
 -->
