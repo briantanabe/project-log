@@ -44,11 +44,15 @@ Gelatin | Sugar | Water | Citric Acid | Link
 
 **Claire Saffitz:**
 If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. She did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8), and made the following discoveries:
-- Ingredients
+- Sour Patch Kids Ingredients
 	- Sugar
 	- Invert sugar
 	- Corn syrup
-	- Modified corn starch tartaric acid citric acid natural and artificial flavoring
+	- Modified corn starch
+	- Tartaric acid 
+	- Citric acid
+	- Natural and artificial flavoring
+-  
 
 ## Discussion
 **Binding**
@@ -62,8 +66,8 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTM1MTQwMiwxMTMyNDM4ODYzLDY1MT
-k3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAy
-MTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMC
-w3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOT
+c5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIx
+OTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLD
+cxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
