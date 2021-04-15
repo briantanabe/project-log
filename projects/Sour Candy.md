@@ -73,16 +73,18 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
 ## Strategy
-After everything, I think I'm going to try two approaches. I want to try an attempt using only pectin for the #veget
+Based on the different recipes, I think I want to try three approaches. First, I'm going to try a pectin only 
+
+Given the complexity, I think I'm going to try two approaches. I want to try an attempt using only pectin for the plant based folks. 
 
 and hybridize Claire's recipe with some of the others. I'm going to start without ge
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Njg5NDY1NiwyMjg4MTYzNjYsMTEzMj
-QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
-OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
-E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
-OTY1Nl19
+eyJoaXN0b3J5IjpbLTE2MDc4NTYyMjAsMjI4ODE2MzY2LDExMz
+I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
+Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
+wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
+NDk2NTZdfQ==
 -->
