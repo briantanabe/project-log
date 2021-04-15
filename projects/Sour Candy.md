@@ -110,7 +110,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |-|-|
 |Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
-|Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, 15g pectin
+|Boil *mixture 2* – lemon juice and pectin | .25 cup lemon juice, 15g pectin
 |Stir mixture 2 into mixture 1 until smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
@@ -121,7 +121,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |-|-|
 |Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
-|Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, 50g gelatin, 15g pectin
+|Boil *mixture 2* – lemon juice, gelatine, and pectin | .25 cup lemon juice, 50g gelatin, 15g pectin
 |Stir mixture 2 into mixture 1 until smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
@@ -129,10 +129,11 @@ I also will not be extensively testing different ingredients, as the goal is to 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzODc5NjI5LC0xMzIxMjU1ODA5LDEwNT
-M0NTc1MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3
-LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOT
-c5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIx
-OTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLD
-cxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbMTE3MTk5MTUyNCw2MjM4Nzk2MjksLTEzMj
+EyNTU4MDksMTA1MzQ1NzUyNywxMjc2NTI2OTYxLDkzMTg4MTI4
+OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYsMTEzMj
+QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
+OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
+E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
+OTY1Nl19
 -->
