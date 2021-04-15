@@ -43,7 +43,7 @@ Gelatin | Sugar | Water | Citric Acid | Link
 3 envelopes | None | 1 cup | .5 packet Kool-Aid | [Spruce Eats](https://www.thespruceeats.com/sour-gummies-520909)
 
 **Claire Saffitz:**
-If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. She did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8), and made the following discoveries:
+If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. I'm trust her process a little more given that I can see the quality and problems introduced, and she did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8), and made the following discoveries:
 - Sour Patch Kids Ingredients
 	- Sugar
 	- Invert sugar
@@ -54,8 +54,8 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	- Natural and artificial flavoring
 -  Pureed citrus is a bad idea, use juice
 - Hydrolyze gelatin in juice
-- Cold dehydration prevents melting
-- 
+- Cold dehydration prevents melting and firms well
+- Soaking in grain alcohol 
 
 ## Discussion
 **Binding**
@@ -69,9 +69,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4OTA0ODIzLDIyODgxNjM2NiwxMTMyND
-M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
-NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
-U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
-NjU2XX0=
+eyJoaXN0b3J5IjpbLTE0NDc0MDkzNTUsMjI4ODE2MzY2LDExMz
+I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
+Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
+wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
+NDk2NTZdfQ==
 -->
