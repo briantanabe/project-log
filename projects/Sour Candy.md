@@ -78,7 +78,7 @@ I said I would give Claire's method more weight, but given that Sour Patch Kids 
 
 **Cornstarch:** Cornstarch thickens solutions through the process of starch gelatinization. When cornstarch is heated in water, the water fills the cornstarch molecule, swelling it. Under heat and in the presence of water, the amylopectin chains in cornstarch will dissolve. Soon, the granule dissolves as the amylopectin is released into the water. ([Wiki](https://en.wikipedia.org/wiki/Corn_starch)[pedia](https://en.wikipedia.org/wiki/Starch_gelatinization))
 
-[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. It also had a great conversion table. I've converted it, so the following are all equal:
+[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. I couldn't find info on the denaturing temperature for It also had a great conversion table. I've converted it, so the following are all equal:
 | Starch | Quantity
 |-|-|
 |Flour|2 tbs|
@@ -100,10 +100,10 @@ Combine sugar and water |
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MT
-I2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMs
-NjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OT
-MwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4
-ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ
-==
+eyJoaXN0b3J5IjpbMTU1Njc1MDM0OSwxMjc2NTI2OTYxLDkzMT
+g4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYs
+MTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NT
+UxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEz
+NDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMT
+Q4NDA0OTY1Nl19
 -->
