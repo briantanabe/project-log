@@ -52,7 +52,8 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	- Tartaric acid 
 	- Citric acid
 	- Natural and artificial flavoring
--  
+-  Pureed citrus is a bad idea
+- 
 
 ## Discussion
 **Binding**
@@ -66,8 +67,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOT
-c5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIx
-OTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLD
-cxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbNzQxMDQwMTY3LDIyODgxNjM2NiwxMTMyND
+M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
+NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
+U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
+NjU2XX0=
 -->
