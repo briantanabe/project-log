@@ -78,7 +78,7 @@ I said I would give Claire's method more weight, but given that Sour Patch Kids 
 
 **Cornstarch:** Cornstarch thickens solutions through the process of starch gelatinization. When cornstarch is heated in water, the water fills the cornstarch molecule, swelling it. Under heat and in the presence of water, the amylopectin chains in cornstarch will dissolve. Soon, the granule dissolves as the amylopectin is released into the water. ([Wiki](https://en.wikipedia.org/wiki/Corn_starch)[pedia](https://en.wikipedia.org/wiki/Starch_gelatinization))
 
-[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. I couldn't find info on the denaturing temperature for It also had a great conversion table. I've converted it, so the following are all equal:
+[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. I couldn't find info on the denaturing temperature, so I think I'm going to run with it. It also had a great conversion table. I've converted it, so the following are all equal:
 | Starch | Quantity
 |-|-|
 |Flour|2 tbs|
@@ -95,15 +95,16 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 **Recipe 1: Cornstarch**
 | Instruction | Amount
 |-|-|
-Combine sugar and water | 
+Combine sugar and water | 16+:1 sugar to water
+
 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Njc1MDM0OSwxMjc2NTI2OTYxLDkzMT
-g4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYs
-MTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NT
-UxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEz
-NDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMT
-Q4NDA0OTY1Nl19
+eyJoaXN0b3J5IjpbLTE3NTcwNzIxODIsMTI3NjUyNjk2MSw5Mz
+E4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2
+LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNT
+U1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQx
+MzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLT
+E0ODQwNDk2NTZdfQ==
 -->
