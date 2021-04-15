@@ -95,9 +95,10 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 **Cornstarch Recipe (r00)**
 | Instruction | Amount 
 |-|-|
-|Combine *mixture 1* – sugar and water | 16 units sugar, 1 unit water
+|Combine *mixture 1* – sugar and water | 16 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
-|Boil *mixture 2* – lemon juice and corn starch | 2 units juice, 1 unit cornstarch 
+|Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, .125 cup cornstarch 
+|Combine as smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
@@ -125,10 +126,10 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc5OTAwNzUsMTA1MzQ1NzUyNywxMj
-c2NTI2OTYxLDkzMTg4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgz
-MywyMjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMD
-E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
-NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
-c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
+eyJoaXN0b3J5IjpbNDM2MDkxMzIsMTA1MzQ1NzUyNywxMjc2NT
+I2OTYxLDkzMTg4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywy
+Mjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMDE4MT
+UxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5NjYy
+NCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OT
+kwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
