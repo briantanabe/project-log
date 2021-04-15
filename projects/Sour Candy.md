@@ -119,9 +119,9 @@ I also will not be extensively testing different ingredients, as the goal is to 
 **Gelatin-Pectin Recipe (r00)**
 | Instruction | Amount
 |-|-|
-|Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
+|Combine *mixture 1* – sugar and water | 1 tbsp + .5 tsp sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
-|Boil *mixture 2* – lemon juice, gelatine, and pectin | .25 cup lemon juice, 50g gelatin, 15g pectin
+|Boil *mixture 2* – lemon juice, gelatine, and pectin | .25 cup lemon juice, 3g gelatin, 1g pectin
 |Stir mixture 2 into mixture 1 until smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
@@ -129,7 +129,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTk5MTUyNCw2MjM4Nzk2MjksLTEzMj
+eyJoaXN0b3J5IjpbLTg0NDE2NDYxNSw2MjM4Nzk2MjksLTEzMj
 EyNTU4MDksMTA1MzQ1NzUyNywxMjc2NTI2OTYxLDkzMTg4MTI4
 OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYsMTEzMj
 QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
