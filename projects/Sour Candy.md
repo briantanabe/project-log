@@ -127,15 +127,15 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
-Well.. That did not go well
+Well.. That did **not** go well.
 
-I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to 
+I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar. I also didn't realize our only thermometer was for meat and did
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3NjQ0MDcsMTE4OTUyNTA3Myw2Mj
-M4Nzk2MjksLTEzMjEyNTU4MDksMTA1MzQ1NzUyNywxMjc2NTI2
-OTYxLDkzMTg4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMj
-g4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUx
-MDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNC
-wxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkw
-NDM2MF19
+eyJoaXN0b3J5IjpbNzE0OTAyMDczLDExODk1MjUwNzMsNjIzOD
+c5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1MjcsMTI3NjUyNjk2
+MSw5MzE4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4OD
+E2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1
+LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMT
+c4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQz
+NjBdfQ==
 -->
