@@ -42,6 +42,7 @@ Gelatin | Sugar | Water | Citric Acid | Link
 7 tbsp + 2 tsp | 1.5 cups | 1.25 cups + 1 cup watermelon | 2.25 tsp | [Bhawya from Instructables](https://www.instructables.com/SOUR-PATCH-WATERMELON/)
 3 envelopes | None | 1 cup | .5 packet Kool-Aid | [Spruce Eats](https://www.thespruceeats.com/sour-gummies-520909)
 
+
 **Claire Saffitz:**
 If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. I trust her process a little more given that I can see results, and she did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8)! She made the following discoveries:
 - Sour Patch Kids Ingredients
@@ -80,9 +81,9 @@ Based on the different recipes, I think I want to try two approaches. First, I'm
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1OTg2MTcsMjI4ODE2MzY2LDExMz
-I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
-Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
-wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
-NDk2NTZdfQ==
+eyJoaXN0b3J5IjpbMTg1ODM1NDMyNSwyMjg4MTYzNjYsMTEzMj
+QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
+OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
+E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
+OTY1Nl19
 -->
