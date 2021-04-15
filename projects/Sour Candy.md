@@ -92,7 +92,27 @@ I said I would give Claire's method more weight, but given that Sour Patch Kids 
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch setting test (used in real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
 
-**Recipe (r00): Cornstarch**
+**Cornstarch Recipe (r00)**
+| Instruction | Amount
+|-|-|
+|Combine *mixture 1* – sugar and water | 16 units sugar, 1 unit water
+|Bring mixture 1 to a boil, then to 290º F| X
+|Boil *mixture 2* – lemon juice and corn starch | 2 units juice, 1 unit cornstarch 
+|Pour into greased parchment and chill | X
+|Soak in alcohol then dry|X|
+|Roll in citric acid and sugar | 4:1 citric acid to sugar
+
+**Pectin Recipe (r00)**
+| Instruction | Amount
+|-|-|
+|Combine *mixture 1* – sugar and water | 16 units sugar, 1 unit water
+|Bring mixture 1 to a boil, then to 290º F| X
+|Boil *mixture 2* – lemon juice and corn starch | 2 units juice, 1 unit cornstarch 
+|Pour into greased parchment and chill | X
+|Soak in alcohol then dry|X|
+|Roll in citric acid and sugar | 4:1 citric acid to sugar
+
+**Gelatin-Pectin Recipe (r00)**
 | Instruction | Amount
 |-|-|
 |Combine *mixture 1* – sugar and water | 16 units sugar, 1 unit water
@@ -105,7 +125,7 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTk4ODk3NCwxMjc2NTI2OTYxLDkzMT
+eyJoaXN0b3J5IjpbMTA1MzQ1NzUyNywxMjc2NTI2OTYxLDkzMT
 g4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYs
 MTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NT
 UxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEz
