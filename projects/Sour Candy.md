@@ -73,14 +73,16 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
 ## Strategy
-After everything, I think I'm going to start with trying out Claire Saffitz's recipe sans corn syrup since I don't have any. I plan to make a few additions, and stick to a single flavor to try and nail down the pH for at least one te
+After everything, I think I'm going to try two approaches. I want to try an attempt using only pectin for the #veget
+
+and hybridize Claire's recipe with some of the others. I'm going to start without ge
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY3MDAxOTYsMjI4ODE2MzY2LDExMz
-I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
-Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
-wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
-NDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTk2Njg5NDY1NiwyMjg4MTYzNjYsMTEzMj
+QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
+OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
+E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
+OTY1Nl19
 -->
