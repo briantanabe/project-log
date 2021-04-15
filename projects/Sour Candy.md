@@ -55,7 +55,10 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 -  Pureed citrus is a bad idea, use juice
 - Hydrolyze gelatin in juice
 - Cold dehydration prevents melting and firms well
-- Soaking in grain alcohol 
+- Soaking in grain alcohol
+- She did 2:1 sugar to citric acid
+	- Everyone thought it was too sour, and I'm pretty sure sour patch kids use Tartaric acid
+	- 
 
 ## Discussion
 **Binding**
@@ -69,9 +72,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTQ4OTk5LDIyODgxNjM2NiwxMTMyND
-M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
-NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
-U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
-NjU2XX0=
+eyJoaXN0b3J5IjpbLTE0NTgwMDQ2MzQsMjI4ODE2MzY2LDExMz
+I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
+Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
+wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
+NDk2NTZdfQ==
 -->
