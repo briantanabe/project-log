@@ -19,10 +19,10 @@ I want to spend this first project getting a sense of the actual process and obt
 
 ## Research
 
-**Research on Gelatin:**
+**Gelatin:**
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
 
-**Research on Pectin:**
+**Pectin:**
 *Note: Fine cooking has amazing food chemistry primers*
 Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the cell walls of plants together. There are two kinds of commercial pectin, high and low methoxyl, or HM and LM. LM pectin sets with the addition of calcium, and HM pectin is far more common (though not always specified).
 
@@ -30,8 +30,11 @@ From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.o
 
 *Todo: Find out pH at which pectin sets*
 
-**Research on Citric Acid:**
+**Citric Acid:**
 Though originally derived from lemons, Citric acid is largely manufactured and sold in powdered form. Citric acid is apparently one of the stronger edible acids, and **the pH of a 1 mM solution of citric acid will be about 3.2.**
+
+**Recipes:**
+
 
 ## Strategy
 **Binding**
@@ -45,7 +48,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjgzMzkyNiw2NTE5NzkyMTksLTEyMD
+eyJoaXN0b3J5IjpbLTgzNjk1NDk4NSw2NTE5NzkyMTksLTEyMD
 E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
 NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
 c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
