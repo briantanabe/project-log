@@ -20,7 +20,7 @@ I want to spend this first project getting a sense of the actual process and obt
 ## Google Facts
 
 **Gelatin:**
-Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
+Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network that sets when cooled, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
 
 **Pectin:**
 *Note: Fine cooking has amazing food chemistry primers*
@@ -57,8 +57,8 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDI3OTAyOCwxMTMyNDM4ODYzLDY1MT
-k3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAy
-MTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMC
-w3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbLTEwNTE3MDg4ODQsMTEzMjQzODg2Myw2NT
+E5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAw
+MjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4Mj
+AsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
