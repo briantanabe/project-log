@@ -73,12 +73,12 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
 ## Strategy
-After everything, I think I'm going to start with trying out Claire Saffitz's recipe  sans corn syrup since I don't have any. I plan to make a few additions, and stick to a single flavor to try and nail down the pH for at least one te
+After everything, I think I'm going to start with trying out Claire Saffitz's recipe sans corn syrup since I don't have any. I plan to make a few additions, and stick to a single flavor to try and nail down the pH for at least one te
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzUzMTc5NzIsMjI4ODE2MzY2LDExMz
+eyJoaXN0b3J5IjpbLTIwODY3MDAxOTYsMjI4ODE2MzY2LDExMz
 I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
 Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
 wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
