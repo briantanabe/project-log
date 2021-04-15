@@ -52,7 +52,9 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	- Tartaric acid 
 	- Citric acid
 	- Natural and artificial flavoring
--  Pureed citrus is a bad idea
+-  Pureed citrus is a bad idea, use juice
+- Hydrolyze gelatin in juice
+- Cold dehydration prevents melting
 - 
 
 ## Discussion
@@ -67,7 +69,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMDQwMTY3LDIyODgxNjM2NiwxMTMyND
+eyJoaXN0b3J5IjpbNjI4OTA0ODIzLDIyODgxNjM2NiwxMTMyND
 M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
 NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
 U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
