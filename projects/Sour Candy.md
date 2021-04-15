@@ -73,6 +73,9 @@ If you aren't familiar with Bon Appetit's [Claire Saffitz](https://www.youtube.c
 
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
+## The Google Facts on Cornstarch
+I said I would give Claire's method more weight, but given that 
+
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch setting test (used in real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
 
@@ -84,7 +87,7 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgwOTUzNjksODA1MTI2NTE3LC0xND
+eyJoaXN0b3J5IjpbLTEzNjMxNDY0NDgsODA1MTI2NTE3LC0xND
 E3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5
 LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLT
 E1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUy
