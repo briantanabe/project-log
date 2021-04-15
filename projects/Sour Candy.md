@@ -44,7 +44,7 @@ Gelatin | Sugar | Water | Citric Acid | Link
 
 
 **Claire Saffitz:**
-If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. I trust her process a little more given that I can see results, and she did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8)! She made the following discoveries:
+If you aren't familiar with Bon Appetit's [Claire Saffitz](https://www.youtube.com/watch?v=-pAOuR8s03Q), she's gained notoriety for recreating popular foods and talking through her decision making in the process. I trust her process a little more given that I can see results, and she did a [video on Sour Patch kids](https://www.youtube.com/watch?v=ppi0khS0s_8)! She made the following discoveries:
 - Sour Patch Kids Ingredients
 	- Sugar
 	- Invert sugar
@@ -74,16 +74,16 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
 ## Strategy
-Based on the different recipes, I think I want to try three approaches. First, I'm going to try a corn starch based recipe, since that's what real to see if it's possible. Second, I'm going to try a hybrid of Claire's recipe and the rest of the recipe's I found, with a focus on getting the pH right for a single flavor. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. 
+Based on the different recipes, I think I want to try three approaches: a corn starch based approach (like real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. First, I'm going to try a corn starch based recipe, since that's what real Sour Patch kids use. Second, I'm going to try just using pectin (no gelatin). Second, I'm going to try a hybrid of Claire's recipe and the rest of the recipe's I found, with a focus on getting the pH right for a single flavor. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. 
 
 
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQxNzE2MzIsMjI4ODE2MzY2LDExMz
-I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
-Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
-wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
-NDk2NTZdfQ==
+eyJoaXN0b3J5IjpbNDEzMjEyNjg1LDIyODgxNjM2NiwxMTMyND
+M4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5
+NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMT
+U3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xNDg0MDQ5
+NjU2XX0=
 -->
