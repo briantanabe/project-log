@@ -78,8 +78,15 @@ I said I would give Claire's method more weight, but given that Sour Patch Kids 
 
 **Cornstarch:** Cornstarch thickens solutions through the process of starch gelatinization. When cornstarch is heated in water, the water fills the cornstarch molecule, swelling it. Under heat and in the presence of water, the amylopectin chains in cornstarch will dissolve. Soon, the granule dissolves as the amylopectin is released into the water. ([Wiki](https://en.wikipedia.org/wiki/Corn_starch)[pedia](https://en.wikipedia.org/wiki/Starch_gelatinization))
 
-[Fine Cooking](https://www.finecooking.com/article/thickeners) Had nothing to add except a great conversion ratio:
-
+[Fine Cooking](https://www.finecooking.com/article/thickeners) Had nothing to add except a great conversion table. I've converted it, so the following are all equal:
+| Starch | Quantity
+|-|-|
+|Flour|2 tbs|
+|Cornstarch| 1 tbs|
+|Tapioca|1 tbs|
+|Arrowroot|1 tbs + 1.5 tsp|
+|Potato starch|1
+**2 Tbs. flour = 1 Tbs. cornstarch = 1 Tbs. tapioca = 1 Tbs. + 1-1/2 tsp. arrowroot = 1-1/2 tsp. potato starch**
 
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch setting test (used in real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
@@ -92,7 +99,7 @@ Combine sugar and water |
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTY5OTYwNSw5MzE4ODEyODksODA1MT
+eyJoaXN0b3J5IjpbMTMxMzg3NjMzMSw5MzE4ODEyODksODA1MT
 I2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMs
 NjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OT
 MwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4
