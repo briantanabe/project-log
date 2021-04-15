@@ -76,20 +76,22 @@ Quick notes on the video: She was pressured for time to finish, so there were so
 ## The Google Facts on Cornstarch
 I said I would give Claire's method more weight, but given that Sour Patch Kids use cornstarch, I want to give that a try as well. 
 
+**Cornstarch**:
+
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch setting test (used in real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
 
 **Recipe 1: Cornstarch**
 | Instruction | Amount
 |-|-|
-Combine sugar, water, and 
+Combine sugar and water | 
 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NjQzODc5LDgwNTEyNjUxNywtMTQxNz
-A1ODMzLDIyODgxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIxOSwt
-MTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC0xNT
-M4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0
-MjgsNzY5OTA0MzYwLC0xNDg0MDQ5NjU2XX0=
+eyJoaXN0b3J5IjpbOTU5NjkxNCw4MDUxMjY1MTcsLTE0MTcwNT
+gzMywyMjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEy
+MDE4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzOD
+E5NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4
+LDc2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
