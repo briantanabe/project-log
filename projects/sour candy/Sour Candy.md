@@ -142,13 +142,13 @@ I didn't realize our only thermometer was for meat and didn't go to 390º F, so 
 I also somehow managed to buy LM pectin [Pomona's Universal Pectin](https://www.fillmorecontainer.com/media/catalog/product/p/e/pectin_-_pomona_s.jpg)... So I skipped that. 
 
 The gels are in the fridge cooling now, so I'll take some pictures when they come out, but this was my first one that I flattened with a milk frother!
-![enter image description here](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_05762.jpg)
+![First gel](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0577.jpg)
 
-
-I should have used easier measurements based on the kitchen tools I have
+**Initial reflections**
+- I should have calculated easier measurements to use on the lfy in the kitchenused easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mjg0NjUzNSwxMDc2NDY1MTQ0LC0xOD
+eyJoaXN0b3J5IjpbMTIxNTIxNzM4MSwxMDc2NDY1MTQ0LC0xOD
 cxMjI5OTUsMTE4OTUyNTA3Myw2MjM4Nzk2MjksLTEzMjEyNTU4
 MDksMTA1MzQ1NzUyNywxMjc2NTI2OTYxLDkzMTg4MTI4OSw4MD
 UxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYsMTEzMjQzODg2
