@@ -119,20 +119,20 @@ I also will not be extensively testing different ingredients, as the goal is to 
 **Gelatin-Pectin Recipe (r00)**
 | Instruction | Amount
 |-|-|
-|Combine *mixture 1* – sugar and water | 16 units sugar, 1 unit water
+|Combine *mixture 1* – sugar and water | 16 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
-|Boil *mixture 2* – lemon juice and corn starch | 2 units juice, 1 unit cornstarch 
+|Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, 50g gelatin, 15g pectin
+|Stir mixture 2 into mixture 1 until smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
-
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MDg0MDY1LDEwNTM0NTc1MjcsMTI3Nj
-UyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMs
-MjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxOD
-E1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2
-MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Nj
-k5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjEyNTU4MDksMTA1MzQ1NzUyNywxMj
+c2NTI2OTYxLDkzMTg4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgz
+MywyMjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMD
+E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
+NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
+c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
