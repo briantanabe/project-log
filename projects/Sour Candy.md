@@ -64,8 +64,13 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	1. Combine 1 cup sugar, 3tsp water, and 3.25 cup corn syrup in a small sauce pan
 	2. Bring to a boil, stirring to dissolve the sugar, then bring to 290º F
 	3. Bloom 50g gelatin in .5 cup sour cherry, lemon, or orange juice, then stir in 15g pectin
-	4. Stir the gelatin/pectin mixture into the sugar syrup along with a pinch of salt, 1.25 tsp citric acid, and corresponding fruit extract 
-	5. 
+	4. Stir the gelatin/pectin mixture into the sugar syrup along with a pinch of salt, 1.25 tsp citric acid, and corresponding fruit extract until smooth
+	5. Pour into a greased pan and chill until set
+	6. Punch out shapes and soak in grain alcohol, then chill on a rack
+	7. Dehydrate corresponding zest and grind, then combine with 2:1 sugar to citric acid
+	8. Coat!
+
+Quick notes on the video: She was pressured for time to finish, so there were some problems! Every
 
 ## Discussion
 **Binding**
@@ -79,7 +84,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTk2MzI0OCwyMjg4MTYzNjYsMTEzMj
+eyJoaXN0b3J5IjpbMTg2MjMwMTI5NywyMjg4MTYzNjYsMTEzMj
 QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
 OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
 E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
