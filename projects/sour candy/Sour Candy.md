@@ -127,21 +127,27 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
-Well.. That did **not** go well.
+Well.. That did **not** go well. The setup is pictured below.
 ![The setup](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0574.jpg)
-The setup
-- I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
-- I somehow managed to buy LM pectin... So I skipped it
-- I didn't realize our only thermometer was for meat and didn't go to 390º F.
-- I forgot to boil the cornstarch beforehand, which will likely ruin the flavor...
+
+First I (incorrectly) modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
+![Boiling the sugar](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0575.jpg)
+
+I also somehow managed to buy LM pectin... So I skipped that
+
+
+I didn't realize our only thermometer was for meat and didn't go to 390º F
+
+
+I forgot to boil the cornstarch beforehand, which will likely ruin the flavor...
 - I should have used easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3OTY4NDUsLTE4NzEyMjk5NSwxMT
-g5NTI1MDczLDYyMzg3OTYyOSwtMTMyMTI1NTgwOSwxMDUzNDU3
-NTI3LDEyNzY1MjY5NjEsOTMxODgxMjg5LDgwNTEyNjUxNywtMT
-QxNzA1ODMzLDIyODgxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIx
-OSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC
-0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1
-MjU0MjhdfQ==
+eyJoaXN0b3J5IjpbMTg3ODk4Mjg2MCwtMTg3MTIyOTk1LDExOD
+k1MjUwNzMsNjIzODc5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1
+MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3LC0xND
+E3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5
+LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLT
+E1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUy
+NTQyOF19
 -->
