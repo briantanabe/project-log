@@ -97,7 +97,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 **Cornstarch Recipe (r00)**
 | Instruction | Amount 
 |-|-|
-|Combine *mixture 1* – sugar and water | 16 cup sugar, 1 tbsp water
+|Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
 |Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, .125 cup cornstarch 
 |Stir mixture 2 into mixture 1 until smooth | X 
@@ -108,7 +108,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 **Pectin Recipe (r00)**
 | Instruction | Amount
 |-|-|
-|Combine *mixture 1* – sugar and water | 16 cup sugar, 1 tbsp water
+|Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
 |Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, 15g pectin
 |Stir mixture 2 into mixture 1 until smooth | X 
@@ -119,7 +119,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 **Gelatin-Pectin Recipe (r00)**
 | Instruction | Amount
 |-|-|
-|Combine *mixture 1* – sugar and water | 16 cup sugar, 1 tbsp water
+|Combine *mixture 1* – sugar and water | 1 cup sugar, 1 tbsp water
 |Bring mixture 1 to a boil, then to 290º F| X
 |Boil *mixture 2* – lemon juice and corn starch | .25 cup lemon juice, 50g gelatin, 15g pectin
 |Stir mixture 2 into mixture 1 until smooth | X 
@@ -129,10 +129,10 @@ I also will not be extensively testing different ingredients, as the goal is to 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEyNTU4MDksMTA1MzQ1NzUyNywxMj
-c2NTI2OTYxLDkzMTg4MTI4OSw4MDUxMjY1MTcsLTE0MTcwNTgz
-MywyMjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTksLTEyMD
-E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
-NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
-c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
+eyJoaXN0b3J5IjpbNjIzODc5NjI5LC0xMzIxMjU1ODA5LDEwNT
+M0NTc1MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3
+LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOT
+c5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIx
+OTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLD
+cxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
