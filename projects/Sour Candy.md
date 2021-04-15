@@ -128,10 +128,14 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
 Well.. That did **not** go well.
+- I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
+- I somehow managed to buy LM pectin... So I skipped it
+- I didn't realize our only thermometer was for meat and didn't go to 390º F.
+- I forgot to boil the cornstarch beforehand, which will likely ruin the flavor...
+- I should have used easier measurements based on the kitchen tools I have
 
-I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar. I also didn't realize our only thermometer was for meat and did
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0OTAyMDczLDExODk1MjUwNzMsNjIzOD
+eyJoaXN0b3J5IjpbMjM4NjM2ODQzLDExODk1MjUwNzMsNjIzOD
 c5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1MjcsMTI3NjUyNjk2
 MSw5MzE4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4OD
 E2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1
