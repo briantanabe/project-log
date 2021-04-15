@@ -38,8 +38,8 @@ Gelatin | Sugar | Water | Citric Acid | Link
 -------- | -------- | -------- | -------- | -------- | 
 6.6oz | 22.4oz | 2.5 cups | 4.5 tsp | [Group Recipes](http://www.grouprecipes.com/137183/homemade-sour-patch-kids.html)
 .25 cups | ⅔ cups | 1 cup rose | 2 tsp | [We are not Martha](https://wearenotmartha.com/rose-sour-patch-kids/)
-2.5 tbsp | 2 cups | .75 cups | None | 
-
+2.5 tbsp | 2 cups | .75 cups | .5 cups orange juice | [Imperial Sugar](https://www.imperialsugar.com/recipes/sweet-and-sour-gummy-pumpkins)
+7 tbsp + 2 tsp | 1.5 cups | 1.25 cups + 1 cup watermelon | 2.25 tsp | [Instructables
 
 ## Strategy
 **Binding**
@@ -53,7 +53,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTk5MzA4Miw2NTE5NzkyMTksLTEyMD
+eyJoaXN0b3J5IjpbMTU1NDk1NDQxOSw2NTE5NzkyMTksLTEyMD
 E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
 NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
 c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
