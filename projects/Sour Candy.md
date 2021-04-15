@@ -73,14 +73,16 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
 ## Strategy
-Based on the different recipes, I think I want to try two approaches. First, I'm going to try a gelatine-free recipe, to see if it's possible. Second, I'm going to try a hybrid of Claire's recipe and the rest of the recipe's I found, with a focus on getting the pH right for a single flavor. While I don't have corn syrup on hand, my hope is 
+Based on the different recipes, I think I want to try two approaches. First, I'm going to try a gelatine-free recipe, to see if it's possible. Second, I'm going to try a hybrid of Claire's recipe and the rest of the recipe's I found, with a focus on getting the pH right for a single flavor. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. 
+
+
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzk5MjM2OSwyMjg4MTYzNjYsMTEzMj
-QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
-OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
-E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
-OTY1Nl19
+eyJoaXN0b3J5IjpbLTE3NjA1OTg2MTcsMjI4ODE2MzY2LDExMz
+I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
+Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
+wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
+NDk2NTZdfQ==
 -->
