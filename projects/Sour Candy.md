@@ -28,6 +28,8 @@ Pectin is a long chain of polysaccharides (a carbohydrate), used to stick the ce
 
 From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.org/wiki/Methoxy_group) and more [Fine Cooking](https://www.finecooking.com/article/the-science-of-pectin), methoxyl is a negative molecule that repels itself and is attracted to water. In the presence of acid (positive hydrogen ions), however, the negative charges will be somewhat neutralized. By heating pectin and acid, the pectin chains will loosen and form a loose matrix. Sugar will additionally attract the water molecules, competing with the pectin for water and tightening the chains. Slowly removing the water then firms the network into a sugar-acid-pectin gel, though the required ratios are reportedly very finicky. **This means fast set pectin has higher methylation levels (more methoxyl)** [(Cyber Colloids)](http://www.cybercolloids.net/information/technical-articles/introduction-pectin-properties).
 
+*Todo: Find out pH at which pectin sets*
+
 **Research on Citric Acid:**
 Though originally derived from lemons, Citric acid is largely manufactured and sold in powdered form. Citric acid is apparently one of the stronger edible acids, and **the pH of a 1 mM solution of citric acid will be about 3.2.**
 
@@ -43,8 +45,8 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNT
-U1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQx
-MzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLT
-E0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1MjgzMzkyNiw2NTE5NzkyMTksLTEyMD
+E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
+NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
+c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
 -->
