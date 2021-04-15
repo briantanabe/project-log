@@ -128,7 +128,7 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
 Well.. That did **not** go well.
-
+[The setup](https://github.com/briantanabe/project-log/blob/master/projects/sour%20candy/IMG_0574.jpg)
 The setup
 - I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
 - I somehow managed to buy LM pectin... So I skipped it
@@ -137,11 +137,11 @@ The setup
 - I should have used easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyMjk5NSwxMTg5NTI1MDczLDYyMz
-g3OTYyOSwtMTMyMTI1NTgwOSwxMDUzNDU3NTI3LDEyNzY1MjY5
-NjEsOTMxODgxMjg5LDgwNTEyNjUxNywtMTQxNzA1ODMzLDIyOD
-gxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEw
-NSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LD
-E3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0
-MzYwXX0=
+eyJoaXN0b3J5IjpbLTE1NzI1NDU4MzAsLTE4NzEyMjk5NSwxMT
+g5NTI1MDczLDYyMzg3OTYyOSwtMTMyMTI1NTgwOSwxMDUzNDU3
+NTI3LDEyNzY1MjY5NjEsOTMxODgxMjg5LDgwNTEyNjUxNywtMT
+QxNzA1ODMzLDIyODgxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIx
+OSwtMTIwMTgxNTEwNSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC
+0xNTM4MTk2NjI0LDE3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1
+MjU0MjhdfQ==
 -->
