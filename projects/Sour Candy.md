@@ -76,7 +76,7 @@ Quick notes on the video: She was pressured for time to finish, so there were so
 ## The Google Facts on Cornstarch
 I said I would give Claire's method more weight, but given that Sour Patch Kids use cornstarch, I want to give that a try as well. 
 
-**Cornstarch:** Cornstarch thickens solutions through the process of starch gelatization. 
+**Cornstarch:** Cornstarch thickens solutions through the process of starch gelatinization. When cornstarch is heated in water, the water fills the cornstarch molecule, swelling it. Under heat and in the presence of water, the amylopectin in cornstarch will decrystalize, 
 
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch setting test (used in real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
@@ -89,9 +89,9 @@ Combine sugar and water |
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc4NTUwMiw4MDUxMjY1MTcsLTE0MT
-cwNTgzMywyMjg4MTYzNjYsMTEzMjQzODg2Myw2NTE5NzkyMTks
-LTEyMDE4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMT
-UzODE5NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1
-NDI4LDc2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
+eyJoaXN0b3J5IjpbLTE4ODAyMzA2NjgsODA1MTI2NTE3LC0xND
+E3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5
+LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLT
+E1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUy
+NTQyOCw3Njk5MDQzNjAsLTE0ODQwNDk2NTZdfQ==
 -->
