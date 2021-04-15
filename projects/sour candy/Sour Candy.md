@@ -127,21 +127,32 @@ I also will not be extensively testing different ingredients, as the goal is to 
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
 ## Execution
-Well.. That did **not** go well.
+Well.. That did **not** go well. The setup is pictured below.
+![The setup](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0574.jpg)
 
-The setup
-- I modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
-- I somehow managed to buy LM pectin... So I skipped it
-- I didn't realize our only thermometer was for meat and didn't go to 390º F.
-- I forgot to boil the cornstarch beforehand, which will likely ruin the flavor...
-- I should have used easier measurements based on the kitchen tools I have
+First I (incorrectly) modified the recipes on the fly to conserve our houses precious cookie ingredients (sugar), which made it difficult to appropriately hydrate and boil the sugar.
+![Boiling the sugar](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0575.jpg)
+
+I forgot to boil the cornstarch beforehand and mixed the wrong volume, which will likely ruin the flavor and texture
+![enter image description here](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0576.jpg)
+
+I didn't realize our only thermometer was for meat and didn't go to 390º F, so I eventually caramelized the sugar
+![enter image description here](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0578.jpg)
+
+I also somehow managed to buy LM pectin [Pomona's Universal Pectin](https://www.fillmorecontainer.com/media/catalog/product/p/e/pectin_-_pomona_s.jpg)... So I skipped that. 
+
+The gels are in the fridge cooling now, so I'll take some pictures when they come out, but this was my first one that I flattened with a milk frother!
+
+
+
+I should have used easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyMjk5NSwxMTg5NTI1MDczLDYyMz
-g3OTYyOSwtMTMyMTI1NTgwOSwxMDUzNDU3NTI3LDEyNzY1MjY5
-NjEsOTMxODgxMjg5LDgwNTEyNjUxNywtMTQxNzA1ODMzLDIyOD
-gxNjM2NiwxMTMyNDM4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEw
-NSwtMTU1NTE2MTM5NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LD
-E3ODA0MTM0ODYsMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0
-MzYwXX0=
+eyJoaXN0b3J5IjpbMTA3NjQ2NTE0NCwtMTg3MTIyOTk1LDExOD
+k1MjUwNzMsNjIzODc5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1
+MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3LC0xND
+E3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5
+LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLT
+E1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUy
+NTQyOF19
 -->
