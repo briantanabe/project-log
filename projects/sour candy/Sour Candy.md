@@ -147,10 +147,13 @@ The gels are in the fridge cooling now, so I'll take some pictures when they com
 **Initial reflections**
 - I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
 - I should just run with one recipe at a time and try different concentrations, it was way too hard to keep track of multiple recipes
-- 
+- Get smaller pots if I want to test small concentrations
+- I probably want to try adding flavoring next time
+- I need a more clear cut set of instructions to use beforehand.
+	- I wasn't really sure what to do after combining the mixtures (how long to wait, etc.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE1MDcwNDQsMTA3NjQ2NTE0NCwtMT
+eyJoaXN0b3J5IjpbLTE4NDA1NTIyMTAsMTA3NjQ2NTE0NCwtMT
 g3MTIyOTk1LDExODk1MjUwNzMsNjIzODc5NjI5LC0xMzIxMjU1
 ODA5LDEwNTM0NTc1MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksOD
 A1MTI2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4
