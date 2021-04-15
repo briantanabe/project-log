@@ -17,7 +17,7 @@ The goals here are pretty straightforward:
 I want to spend this first project getting a sense of the actual process and obtaining ~~an intuition~~ data about the ratio of ingredients. Because I couldn't find Tartaric Acid at Whole Foods, the only ingredients I will be investigating this time around are **gelatin**, **citric acid**, **water**, and **sugar**. I also bought **pectin** (*after remembering the time I made Jello Shots for my vegetarian friends*), though I suspect like many vegan substitutes, it may be harder to get right. 
 
 
-## Google Facts
+## The Google Facts
 
 **Gelatin:**
 Gelatin is commercially produced by first soaked pig skin in acid to release collagen [(Fine Cooking)](https://www.finecooking.com/article/the-science-of-gelatin). The collagen is then heated to 160-180º F, at which point it melts into gelatin. Gelatin is a long, hydroscopic protein that does not readily form bonds with itself. While it does loosen at higher temperatures and form a sticky network that sets when cooled, it will not form bonds and coagulate (unlike an egg). [(Science of Cooking)](https://www.scienceofcooking.com/meat/slow_cooking1.htm#:~:text=160%C2%B0F%2F70%C2%B0,to%20gelatin%20at%20160%2F70.)
@@ -76,14 +76,17 @@ Quick notes on the video: She was pressured for time to finish, so there were so
 ## Strategy
 Based on the different recipes, I think I want to try three approaches: a corn starch based approach (like real Sour Patch Kids), a pectin based approach, and the BA gelatin-pectin combo approach. While I don't have corn syrup on hand, my hope is sugar will suffice for this first test. Additionally, I'll be testing a single flavor to compare texture and get the pH right. 
 
+**Recipe 1: Cornstarch**
+| Instruction | Amount
+|-|-|
 
 
-## Tests
+## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcwNTgzMywyMjg4MTYzNjYsMTEzMj
-QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
-OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
-E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
-OTY1Nl19
+eyJoaXN0b3J5IjpbODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4OD
+E2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1
+LC0xNTU1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMT
+c4MDQxMzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQz
+NjAsLTE0ODQwNDk2NTZdfQ==
 -->
