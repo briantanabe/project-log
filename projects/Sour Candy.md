@@ -95,16 +95,17 @@ Based on the different recipes, I think I want to try three approaches: a corn s
 **Recipe 1: Cornstarch**
 | Instruction | Amount
 |-|-|
-Combine sugar and water | 16+:1 sugar to water
-
+|Combine *mixture 1* – sugar and water | 16+:1 sugar to water|
+|Bring mixture 1 to a boil, then to 290º F| X|
+|Boil *mixture 2* 
 
 ## Execution
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTcwNzIxODIsMTI3NjUyNjk2MSw5Mz
-E4ODEyODksODA1MTI2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2
-LDExMzI0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNT
-U1MTYxMzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQx
-MzQ4NiwxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLT
-E0ODQwNDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTI1ODc5MTIwLDEyNzY1MjY5NjEsOTMxOD
+gxMjg5LDgwNTEyNjUxNywtMTQxNzA1ODMzLDIyODgxNjM2Niwx
+MTMyNDM4ODYzLDY1MTk3OTIxOSwtMTIwMTgxNTEwNSwtMTU1NT
+E2MTM5NywxNjkzMDAyMTk1LC0xNTM4MTk2NjI0LDE3ODA0MTM0
+ODYsMTU3MzUyODgyMCw3MTU1MjU0MjgsNzY5OTA0MzYwLC0xND
+g0MDQ5NjU2XX0=
 -->
