@@ -145,14 +145,16 @@ The gels are in the fridge cooling now, so I'll take some pictures when they com
 ![First gel](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0577.jpg)
 
 **Initial reflections**
-- I should have calculated easier measurements to use on the lfy in the kitchenused easier measurements based on the kitchen tools I have
+- I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
+- I should just run with one recipe at a time and try different concentrations, it was way too hard to keep track of multiple recipes
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTIxNzM4MSwxMDc2NDY1MTQ0LC0xOD
-cxMjI5OTUsMTE4OTUyNTA3Myw2MjM4Nzk2MjksLTEzMjEyNTU4
-MDksMTA1MzQ1NzUyNywxMjc2NTI2OTYxLDkzMTg4MTI4OSw4MD
-UxMjY1MTcsLTE0MTcwNTgzMywyMjg4MTYzNjYsMTEzMjQzODg2
-Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEzOTcsMT
-Y5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LDE1NzM1
-Mjg4MjBdfQ==
+eyJoaXN0b3J5IjpbLTEwOTE1MDcwNDQsMTA3NjQ2NTE0NCwtMT
+g3MTIyOTk1LDExODk1MjUwNzMsNjIzODc5NjI5LC0xMzIxMjU1
+ODA5LDEwNTM0NTc1MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksOD
+A1MTI2NTE3LC0xNDE3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4
+NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYxMzk3LD
+E2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4NiwxNTcz
+NTI4ODIwXX0=
 -->
