@@ -52,13 +52,16 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	- Tartaric acid 
 	- Citric acid
 	- Natural and artificial flavoring
--  Pureed citrus is a bad idea, use juice
-- Hydrolyze gelatin in juice
-- Cold dehydration prevents melting and firms well
-- Soaking in grain alcohol
-- She did 2:1 sugar to citric acid
-	- Everyone thought it was too sour, and I'm pretty sure sour patch kids use Tartaric acid
-	- 
+- Process notes
+	- Pureed citrus is a bad idea, use juice
+	- Hydrolyze gelatin in juice
+	- Cold dehydration prevents melting and firms well
+	- Soaking in grain alcohol
+	- She did 2:1 sugar to citric acid
+		- Everyone thought it was too sour
+		- She mixed dehydrated ground lemon rind in for flavoring
+- Final recipe
+	- Dissolve 1 cup sugar, 3tsp water, and 2
 
 ## Discussion
 **Binding**
@@ -72,9 +75,9 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwMDQ2MzQsMjI4ODE2MzY2LDExMz
-I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
-Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
-wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
-NDk2NTZdfQ==
+eyJoaXN0b3J5IjpbLTY2NTIwMDg2MCwyMjg4MTYzNjYsMTEzMj
+QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
+OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
+E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
+OTY1Nl19
 -->
