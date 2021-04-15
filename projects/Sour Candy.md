@@ -70,21 +70,15 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	7. Dehydrate corresponding zest and grind, then combine with 2:1 sugar to citric acid
 	8. Coat!
 
-Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems the flavoring was too sour, and one editor preferred the texture of the sour cherry to the lemon.
+Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems **the flavoring was too sour**, and one editor preferred the texture of the sour cherry to the lemon.
 
-## Discussion
-**Binding**
-Unsurprisingly there is more online praise for animal based gelatin, though it appears it's largely used for sauces and desserts. I actually suspect pectin may produce a better texture under the right conditions as it requires a low pH to set; however, I worry that getting the sugar/acid/pectin ratio right may complicate evaluating pectin vs gelatin.
-
-**Taste**
-There were a lot of tips to navigate the pH of various added fruits when using pectin, so I suspect various artificial flavorings may have a similar problem.
-
-**
+## Strategy
+After everything, I think I'm going to start with trying out C
 
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQyNjE2OTksMjI4ODE2MzY2LDExMz
+eyJoaXN0b3J5IjpbLTE1NDY3MDExNDcsMjI4ODE2MzY2LDExMz
 I0Mzg4NjMsNjUxOTc5MjE5LC0xMjAxODE1MTA1LC0xNTU1MTYx
 Mzk3LDE2OTMwMDIxOTUsLTE1MzgxOTY2MjQsMTc4MDQxMzQ4Ni
 wxNTczNTI4ODIwLDcxNTUyNTQyOCw3Njk5MDQzNjAsLTE0ODQw
