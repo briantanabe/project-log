@@ -141,10 +141,14 @@ I didn't realize our only thermometer was for meat and didn't go to 390º F, so 
 
 I also somehow managed to buy LM pectin [Pomona's Universal Pectin](https://www.fillmorecontainer.com/media/catalog/product/p/e/pectin_-_pomona_s.jpg)... So I skipped that. 
 
-#I should have used easier measurements based on the kitchen tools I have
+The gels are in the fridge cooling now, so I'll take some pictures when they come out, but this was my first one that I flattened with a milk frother!
+
+
+
+I should have used easier measurements based on the kitchen tools I have
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDk4ODcwMywtMTg3MTIyOTk1LDExOD
+eyJoaXN0b3J5IjpbMTA3NjQ2NTE0NCwtMTg3MTIyOTk1LDExOD
 k1MjUwNzMsNjIzODc5NjI5LC0xMzIxMjU1ODA5LDEwNTM0NTc1
 MjcsMTI3NjUyNjk2MSw5MzE4ODEyODksODA1MTI2NTE3LC0xND
 E3MDU4MzMsMjI4ODE2MzY2LDExMzI0Mzg4NjMsNjUxOTc5MjE5
