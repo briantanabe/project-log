@@ -36,7 +36,8 @@ Though originally derived from lemons, Citric acid is largely manufactured and s
 **Recipes:**
 Gelatin | Sugar | Water | Citric Acid | Link
 -------- | -------- | -------- | -------- | -------- | 
-6.6oz | 
+6.6oz | 22.4oz | 2.5 cups | 4.5 tsp | [Group Recipes](http://www.grouprecipes.com/137183/homemade-sour-patch-kids.html)
+
 
 
 ## Strategy
@@ -51,7 +52,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTc2OTA3MCw2NTE5NzkyMTksLTEyMD
+eyJoaXN0b3J5IjpbLTU0MDY1NzgzNyw2NTE5NzkyMTksLTEyMD
 E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
 NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
 c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
