@@ -70,7 +70,7 @@ If you aren't familiar with [Claire Saffitz](https://www.youtube.com/watch?v=-pA
 	7. Dehydrate corresponding zest and grind, then combine with 2:1 sugar to citric acid
 	8. Coat!
 
-Quick notes on the video: She was pressured for time to finish, so there were some problems! Every
+Quick notes on the video: She was pressured for time to finish, so there were some problems! It seems the flavoring was too sour, 
 
 ## Discussion
 **Binding**
@@ -84,7 +84,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjMwMTI5NywyMjg4MTYzNjYsMTEzMj
+eyJoaXN0b3J5IjpbMTMyNjA3NDc0MSwyMjg4MTYzNjYsMTEzMj
 QzODg2Myw2NTE5NzkyMTksLTEyMDE4MTUxMDUsLTE1NTUxNjEz
 OTcsMTY5MzAwMjE5NSwtMTUzODE5NjYyNCwxNzgwNDEzNDg2LD
 E1NzM1Mjg4MjAsNzE1NTI1NDI4LDc2OTkwNDM2MCwtMTQ4NDA0
