@@ -34,7 +34,11 @@ From what I can tell with my [Wikipedia chemistry degree](https://en.wikipedia.o
 Though originally derived from lemons, Citric acid is largely manufactured and sold in powdered form. Citric acid is apparently one of the stronger edible acids, and **the pH of a 1 mM solution of citric acid will be about 3.2.**
 
 **Recipes:**
-
+Gelatin | Sugar | Water | Citric Acid
+-------- | -------- | -------- | -------- | 
+Computer | $1600
+Phone | $12
+Pipe | $1
 
 ## Strategy
 **Binding**
@@ -48,7 +52,7 @@ There were a lot of tips to navigate the pH of various added fruits when using p
 ## Tests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjk1NDk4NSw2NTE5NzkyMTksLTEyMD
+eyJoaXN0b3J5IjpbMTA1NDk5Nzk5Nyw2NTE5NzkyMTksLTEyMD
 E4MTUxMDUsLTE1NTUxNjEzOTcsMTY5MzAwMjE5NSwtMTUzODE5
 NjYyNCwxNzgwNDEzNDg2LDE1NzM1Mjg4MjAsNzE1NTI1NDI4LD
 c2OTkwNDM2MCwtMTQ4NDA0OTY1Nl19
