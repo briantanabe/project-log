@@ -12,8 +12,18 @@ Check out [Part 1](https://github.com/briantanabe/project-log/blob/master/projec
 ## The Research
 A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/master/projects/sour%20candy/Sour%20Candy%20Part%201.md):
 >[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. I couldn't find info on the denaturing temperature, so I think I'm going to run with it.
+>### Cornstarch Recipe (r00)
+>| Instruction | Amount 
+>|-|-|
+>|Combine *mixture 1* – sugar and water | 1 tbsp + .5 tsp sugar, .25 tsp water
+>|Bring mixture 1 to a boil, then to 290º F| X
+>|Boil *mixture 2* – lemon juice and corn starch | .025 cup lemon juice, .125 cup cornstarch 
+>|Stir mixture 2 into mixture 1 until smooth | X 
+>|Pour into greased parchment and chill | X
+>|Soak in alcohol then dry|X|
+>|Roll in citric acid and sugar | 4:1 citric acid to sugar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIwNDUyMDEsMTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbLTIwNzc1NjgwNTEsMTc5NTYxOTkwN119
 -->
