@@ -39,8 +39,8 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch
 |Stir mixture 1 into mixture 2 slowly while whisking until smooth | X | X | X
 |Pour onto greased parchment and chill | X | X | X
-|Soak in Everclear then dry|X|
+|Soak in Everclear then dry|X|X|X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzA1NDA5MCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTE3NDgyMjUyNzQsMTc5NTYxOTkwN119
 -->
