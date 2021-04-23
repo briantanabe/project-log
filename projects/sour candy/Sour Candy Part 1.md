@@ -147,7 +147,9 @@ The gels are in the fridge cooling now, so I'll take some pictures when they com
 ## Results
 I completely forgot to take pictures, but the gels were very sticky even after cooling in the fridge. Claire had mentioned needing to use baking spray, and I totally understand why now. After letting them cool I dipped them in Vodka (I don't have Everclear laying around), and let them dry at room temperature.
 
-**Gelatin Gummy:** The gelatin mixture was much stickie
+**Gelatin Gummy:** The gelatin mixture was much stickier than the cornstarch based one, and was very tart. The texture was still very silky even after letting it dry out, similar to Laffy Taffy. The tas
+
+**Cornstarch Gummy:** 
 
 ## Reflection
 - I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
@@ -159,5 +161,5 @@ I completely forgot to take pictures, but the gels were very sticky even after c
 - Take better pictures!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU2OTg3NTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTU4MTU4OTldfQ==
 -->
