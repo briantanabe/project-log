@@ -10,7 +10,10 @@ Check out [Part 1](https://github.com/briantanabe/project-log/blob/master/projec
 2. Take better action shots
 
 ## The Research
+A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/master/projects/sour%20candy/Sour%20Candy%20Part%201.md):
+>[Fine Cooking](https://www.finecooking.com/article/thickeners) suggested that I could just boil the cornstarch for a bit to release the amylopectin and reduce the starchy flavor. I couldn't find info on the denaturing temperature, so I think I'm going to run with it.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbLTE5MTIwNDUyMDEsMTc5NTYxOTkwN119
 -->
