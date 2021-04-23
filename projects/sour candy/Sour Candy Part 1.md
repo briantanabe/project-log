@@ -144,6 +144,9 @@ I also somehow managed to buy LM pectin [Pomona's Universal Pectin](https://www.
 The gels are in the fridge cooling now, so I'll take some pictures when they come out, but this was my first one that I flattened with a milk frother!
 ![First gel](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0577.jpg)
 
+## Results
+I completely forgot to take pictures, but the gels were very sticky even after cooling in the fridge. Claire had mentioned needing to use baki
+
 **Initial reflections**
 - I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
 - I should just run with one recipe at a time and try different concentrations, it was way too hard to keep track of multiple recipes
@@ -154,5 +157,5 @@ The gels are in the fridge cooling now, so I'll take some pictures when they com
 - Take better pictures!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTE1NDE3NF19
+eyJoaXN0b3J5IjpbMTI2NjYyOTc3M119
 -->
