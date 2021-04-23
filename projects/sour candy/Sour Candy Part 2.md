@@ -34,10 +34,11 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |-|-|
 |Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .025 cup lemon juice, .125 cup cornstarch 
 |Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water
-|Stir mixture 2 into mixture 1 until smooth | X 
+|Stir mixture 1 into mixture 2 slowly while whisking until smooth | X 
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
+**Explanation:** According to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Nzg3ODI2OSwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbNzkyMjY2NTA1LDE3OTU2MTk5MDddfQ==
 -->
