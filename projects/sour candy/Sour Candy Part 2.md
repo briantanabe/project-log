@@ -6,10 +6,9 @@ Check out [Part 1](https://github.com/briantanabe/project-log/blob/master/projec
 *Started on Friday, April 23 at 5:00PM*
 
 ## Goals
-The goals for part two are a bit more detailed:
 1. Refine the cornstarch based recipe
+	2. Atte
 2. Take better action shots
-3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzA0MzU5MF19
+eyJoaXN0b3J5IjpbMTQ5NTExNDkyMV19
 -->
