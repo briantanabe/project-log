@@ -23,7 +23,20 @@ A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/mast
 >|Soak in alcohol then dry|X|
 >|Roll in citric acid and sugar | 4:1 citric acid to sugar
 
-I want to more hands on experience this time around taking photos and testing this recipe, so I'm just going to make three 
+I want to more hands on experience this time around taking photos and testing this recipe, so I'm just going to make three variations of this recipe in a larger quantity!
+
+## Strategy
+
+#### Cornstarch Recipe (r01a)
+| Instruction | Amount 
+|-|-|
+|Combine *mixture 1* – sugar and water | 1 tbsp + .5 tsp sugar, .25 tsp water
+|Bring mixture 1 to a boil, then to 290º F| X
+|Boil *mixture 2* – lemon juice and corn starch | .025 cup lemon juice, .125 cup cornstarch 
+|Stir mixture 2 into mixture 1 until smooth | X 
+|Pour into greased parchment and chill | X
+|Soak in alcohol then dry|X|
+|Roll in citric acid and sugar | 4:1 citric acid to sugar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDE3OTY0NSwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTIwNTQxOTExOTUsMTc5NTYxOTkwN119
 -->
