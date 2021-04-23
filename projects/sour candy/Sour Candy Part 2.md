@@ -27,6 +27,9 @@ I want to more hands on experience this time around taking photos and testing th
 
 Additionally, given how hectic the kitchen can be, I'm also going to play with the ordering and descriptions of instructions to make the recipes easier to follow on the spot.
 
+
+**Finally**, according to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered below boiling for *"several minutes"* to cook off the starch flavor, hence instruction 1. Additionally, *"cornstarch is prone to clumping when exposed to hot liquids,"* hence instruction 3. I cut the coating instruction for this time around to better focus on the texture. 
+
 ## Strategy
 
 #### Cornstarch Recipe (r01a)
@@ -35,10 +38,18 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .025 cup lemon juice, .125 cup cornstarch 
 |Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water
 |Stir mixture 1 into mixture 2 slowly while whisking until smooth | X 
-|Pour into greased parchment and chill | X
-|Soak in alcohol then dry|X|
-|Roll in citric acid and sugar | 4:1 citric acid to sugar
-**Explanation:** According to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered below boiling for *"several minutes"* to cook off the starch flavor, hence instruction 1. I put instruction 1 first this time, as moving from  Additionally, *"cornstarch is prone to clumping when exposed to hot liquids."* 
+|Pour onto greased parchment and chill | X
+|Soak in Everclear then dry|X|
+
+#### Cornstarch Recipe (r01a)
+| Instruction | Amount 
+|-|-|
+|Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .025 cup lemon juice, .125 cup cornstarch 
+|Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water
+|Stir mixture 1 into mixture 2 slowly while whisking until smooth | X 
+|Pour onto greased parchment and chill | X
+|Soak in Everclear then dry|X|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5MDQyOCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTIyNDQyNzIxNSwxNzk1NjE5OTA3XX0=
 -->
