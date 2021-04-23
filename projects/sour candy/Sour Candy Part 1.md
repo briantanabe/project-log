@@ -152,7 +152,7 @@ I completely forgot to take pictures, but the gels were very sticky even after c
 **Cornstarch Gummy:** The cornstarch test was actually really quite close in terms of the texture, which was very surprising given all of the mistakes I made. It was still sticky, but way less than the gelatin. It (unsurprisingly) tasted like cornstarch given that I forgot to boil it, but otherwise I was really impressed with how it came out. I will be moving forward with cornstarch based recipes in the near future given how close this was to real sour patch kids in terms of texture. I think next steps would involve using Everclear instead of vodka to better desiccate the surface, as well as refining the recipe.
 
 ## Reflection
-Between making the gels and taste testing them, I had totally forgotten that cornstarch wasn't reflected in any of the recipes that we saw. It turned out so much better that I'm definitely going to move forward with it as the gelling agent
+Between making the gels and taste testing them, I had totally forgotten that cornstarch wasn't reflected in any of the recipes that we saw. It turned out so much better that I'm definitely going to move forward with it as the gelling agent. I'm super excited about this, as I actually haven't found a single recipe online that doesn't use gelatin or pectin. Some other notes on things to remember next time around are bulleted below:
 
 - I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
 - I should just run with one recipe at a time and try different concentrations, it was way too hard to keep track of multiple recipes
@@ -163,5 +163,5 @@ Between making the gels and taste testing them, I had totally forgotten that cor
 - Take better pictures!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzMyMDQ2MF19
+eyJoaXN0b3J5IjpbMTY4MzUwMzc0NF19
 -->
