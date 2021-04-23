@@ -7,8 +7,10 @@ Check out [Part 1](https://github.com/briantanabe/project-log/blob/master/projec
 
 ## Goals
 1. Refine the cornstarch based recipe
-	2. Atte
 2. Take better action shots
+
+## The Research
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTExNDkyMV19
+eyJoaXN0b3J5IjpbMTc5NTYxOTkwN119
 -->
