@@ -145,9 +145,11 @@ The gels are in the fridge cooling now, so I'll take some pictures when they com
 ![First gel](https://raw.githubusercontent.com/briantanabe/project-log/master/projects/sour%20candy/IMG_0577.jpg)
 
 ## Results
-I completely forgot to take pictures, but the gels were very sticky even after cooling in the fridge. Claire had mentioned needing to use baki
+I completely forgot to take pictures, but the gels were very sticky even after cooling in the fridge. Claire had mentioned needing to use baking spray, and I totally understand why now. After letting them cool I dipped them in Vodka (I don't have Everclear laying around), and let them dry at room temperature.
 
-**Initial reflections**
+**Gelatin Gummy:** The gelatin mixture was much stickie
+
+## Reflection
 - I should have calculated easier measurements to use beforehand so I could do things a bit more smoothly in the kitchen
 - I should just run with one recipe at a time and try different concentrations, it was way too hard to keep track of multiple recipes
 - Get smaller pots if I want to test small concentrations
@@ -157,5 +159,5 @@ I completely forgot to take pictures, but the gels were very sticky even after c
 - Take better pictures!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjYyOTc3M119
+eyJoaXN0b3J5IjpbLTExMTU2OTg3NTNdfQ==
 -->
