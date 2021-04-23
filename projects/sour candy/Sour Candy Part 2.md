@@ -38,7 +38,7 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |Pour into greased parchment and chill | X
 |Soak in alcohol then dry|X|
 |Roll in citric acid and sugar | 4:1 citric acid to sugar
-**Explanation:** According to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered 
+**Explanation:** According to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered below boiling for *"several minutes"* to cook off the starch flavor, hence instruction 1. I put instruction 1 first this time, as moving from  Additionally, *"cornstarch is prone to clumping when exposed to hot liquids."* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMjY2NTA1LDE3OTU2MTk5MDddfQ==
+eyJoaXN0b3J5IjpbLTE3NDQ5MDQyOCwxNzk1NjE5OTA3XX0=
 -->
