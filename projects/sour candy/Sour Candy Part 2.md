@@ -33,7 +33,7 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 ## Strategy
 
 #### Cornstarch Recipe (r01a)
-| Instruction | Amount (A) | Amount (B) | Amount (C) |
+| Instruction | Amount (A) | Amount (B) | Amount (C) lol |
 |-|-|-|-|
 |Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch 
 |Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch
@@ -42,5 +42,5 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |Soak in Everclear then dry|X|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzM3NTI5NywxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTYwNzA1NDA5MCwxNzk1NjE5OTA3XX0=
 -->
