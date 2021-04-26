@@ -40,9 +40,9 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 **Trial 3:** The mixture quickly formed a homogenous goo and did not burn (thanks to constant stirring). After 10 minutes I poured the goo into a separate container. While Finer Cooking's thickeners page suggested the cornstarch mixture should bubble then simmer, I suspect the article was written about solutions with lower concentrations of cornstarch.
 
-**Sugar Syrup:** Previously I wasn't quite sure what the purpose of the sugar was in all of the recipes, but after consulting [The Joy of Baking](https://www.joyofbaking.com/StagesOfCookedSugar.html),, 
+**Sugar Syrup:** Previously I wasn't quite sure what the purpose of the sugar was in all of the recipes, but after consulting [The Joy of Baking](https://www.joyofbaking.com/StagesOfCookedSugar.html), I'm beginning to think the 290º F target in Claire's reci means 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDQzNTczMCwxMzg4NDcyNCw1NDA0ND
-EzMjAsLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwt
-MTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTExNTY0OTg2MjYsMTM4ODQ3MjQsNTQwND
+QxMzIwLC00MzcxNDU4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUs
+LTE3NDgyMjUyNzQsMTc5NTYxOTkwN119
 -->
