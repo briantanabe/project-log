@@ -36,12 +36,12 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 | Instruction | Amount (A) | Amount (B) | Amount (C) lol |
 |-|-|-|-|
 |Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch 
-|Bring *mixture 2* to 290º F | 1 tbsp + .5 tsp sugar, .25 tsp water | .025 cup lemon juice, .125 cup cornstarch | .025 cup lemon juice, .125 cup cornstarch
+|Bring *mixture 2* to 290º F | 1 cup sugar, 1 cup water | 1 cup sugar, 1.25 cup water | 1.25 cup sugar, 1 cup water
 |Stir mixture 1 into mixture 2 slowly while whisking until smooth | X | X | X
 |Pour onto greased parchment and chill | X | X | X
 |Soak in Everclear then dry|X|X|X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjAwNjcyNSwtMTc0ODIyNTI3NCwxNz
-k1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTE2NDQ0MTI3OTAsMTY0NjAwNjcyNSwtMT
+c0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
 -->
