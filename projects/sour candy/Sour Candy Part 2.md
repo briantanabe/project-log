@@ -31,11 +31,15 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 #### Cornstarch Recipe (r01)
 | Recipe | Trial 1 | Trial 2 | Trial 3 |
 |-|-|-|-|
-|Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, .125 cup cornstarch 
+|Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
 
-On the fir
+**Trial 1:** The water barely dissolved all of the cornstarch, and once heated began to congeal, bubble, and burn very quickly
+
+**Trial 2:** The lime juice did not congeal as quickly, but after leaving unstirred for a few minutes, also bubbled, congealed, and was lightly scorched
+
+**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyODkxMzcsNTQwNDQxMzIwLC00MzcxND
-U4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQs
-MTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbMjAwODM1NTE5OCw1NDA0NDEzMjAsLTQzNz
+E0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwtMTc0ODIyNTI3
+NCwxNzk1NjE5OTA3XX0=
 -->
