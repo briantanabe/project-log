@@ -33,15 +33,16 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 ## Strategy
 
 #### Cornstarch Recipe (r01)
-| Instruction | Amount (A) | Amount (B) | Amount (C) lol |
+| Instruction | Trial A | Trial B | Trial C |
 |-|-|-|-|
-|Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 1 cup cornstarch 
+|Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, .125 cup cornstarch 
 |Bring *mixture 2* to 290º F | 1 cup sugar, 1 cup water | 1 cup sugar, 1.25 cup water | 1.25 cup sugar, 1 cup water
 |Stir mixture 1 into mixture 2 slowly while whisking until smooth | X | X | X
 |Pour onto greased parchment and chill | X | X | X
 |Soak in Everclear then dry|X|X|X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0Nj
-AwNjcyNSwtMTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbNTQwNDQxMzIwLC00MzcxNDU4ODUsLTQ3Mz
+YyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQsMTc5NTYxOTkw
+N119
 -->
