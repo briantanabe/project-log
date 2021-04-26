@@ -28,13 +28,13 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 ## Experimentation
 
-**Gelling Agent:** For this stage, I want to refine the preparation of the gelling agent. Primarily, the quantities and 
+**Gelling Agent:** For this stage, I want to refine the preparation of the gelling agent. Specifically, I want a better intuition of what should be happening at this stage, and the specific quantities to use.
 
 | Goal | Trial 1 | Trial 2 | Trial 3 |
 |-|-|-|-|
 |Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
 
-**Trial 1:** The water barely dissolved all of the cornstarch, and once heated began to congeal, bubble, and burn very quickly
+**Trial 1:** The water barely dissolved all of the cornstarch, and once heated, the cornstarch formed a heterogenous solid mass that began to bubble and burn.
 
 **Trial 2:** The lime juice did not congeal as quickly, but after leaving unstirred for a few minutes, also bubbled, congealed, and was lightly scorched
 
@@ -44,7 +44,7 @@ While Finer Cooking's thickeners page suggested the cornstarch mixture should bu
 
 **Sugar Syrup 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODQ3MjQsNTQwNDQxMzIwLC00MzcxND
-U4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQs
-MTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbLTg3NDQyMDg3NywxMzg4NDcyNCw1NDA0ND
+EzMjAsLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwt
+MTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
 -->
