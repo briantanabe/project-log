@@ -44,11 +44,12 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 I'm a bit worried about incorporating the goo, as cornstarch has a tendency to clump, especially when exposed to heat. I'm also not quite sure what the proportion of sugar and cornstarch is supposed to be, and I don't have that much cornstarch mixture. So we'll see how this goes...
 
-**Trial 1:** I added equal parts sugar and water based on earlier recipes, but after realizing that the different stages of sugar syrup are essentially different proportions of sugar and water, I added another half cup of sugar to speed things up. **The final recipe was  .5 cup water, 1 cup sugar**, which I suspect will be too much for the quantity of cornstarch I made. I stirred the entire time to avoid caramelizing the sugar again.
+**Trial:** I added equal parts sugar and water based on earlier recipes, but after realizing that the different stages of sugar syrup are essentially different proportions of sugar and water, I added another half cup of sugar to speed things up. **The final recipe was  .5 cup water, 1 cup sugar**, which I suspect will be too much for the quantity of cornstarch I made. I stirred the entire time to avoid caramelizing the sugar again.
 
-Determining the softball stage was tough given that the sugar would change texture against the bottom of the pot, and I had never made sugar syrup before. Nevertheless, once it seemed to *crack* under a spoon, I added in all of the cornstarch mixture. Once it w
+Determining the softball stage was tough given that the sugar would change texture against the bottom of the pot, and I had never made sugar syrup before. Nevertheless, once it seemed to *crack* under a spoon, I added in all of the cornstarch mixture. I tried to mix it well enough while preparing a parchment sheet with cornstarch dusted on it. I poured the entire mixture once it seemed homogenized, then put in the freezer. It looked like there may have been clumps of cornstarch, but it was tough to tell with the sugar bubbles.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA2MzQ2MzUsMTE3Mzg0Njc5NSwxMT
+eyJoaXN0b3J5IjpbLTEzMDkxODM3NTMsMTE3Mzg0Njc5NSwxMT
 MwODkyNzM1LDU2MTk4Mjg1NCwxMzg4NDcyNCw1NDA0NDEzMjAs
 LTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwtMTc0OD
 IyNTI3NCwxNzk1NjE5OTA3XX0=
