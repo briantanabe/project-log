@@ -28,6 +28,8 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 ## Experimentation
 
+**Gelling Agent:** For this stage, I want to refine the preparation of the gelling agent. Primarily, the quantities and 
+
 | Goal | Trial 1 | Trial 2 | Trial 3 |
 |-|-|-|-|
 |Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
@@ -38,9 +40,11 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 **Trial 3:** The mixture quickly formed a homogenous goo and did not burn (thanks to constant stirring). After 10 minutes I poured the goo into a separate container.
 
-While Finer Cooking's 
+While Finer Cooking's thickeners page suggested the cornstarch mixture should bubble then simmer, I suspect the article was written about solutions with lower concentrations of cornstarch.
+
+**Sugar Syrup 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ5NDE3MSw1NDA0NDEzMjAsLTQzNz
-E0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwtMTc0ODIyNTI3
-NCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbMTM4ODQ3MjQsNTQwNDQxMzIwLC00MzcxND
+U4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQs
+MTc5NTYxOTkwN119
 -->
