@@ -44,9 +44,10 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 I'm a bit worried about incorporating the goo, as cornstarch has a tendency to clump, especially when exposed to heat. I'm also not quite sure what the proportion of sugar and cornstarch is supposed to be, and I don't have that much cornstarch mixture. So we'll see how this goes...
 
-
+**Trial 1:** I added 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDg5MjczNSw1NjE5ODI4NTQsMTM4OD
-Q3MjQsNTQwNDQxMzIwLC00MzcxNDU4ODUsLTQ3MzYyNzcyLDE2
-NDYwMDY3MjUsLTE3NDgyMjUyNzQsMTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbLTExMjM5MDY0NDcsMTEzMDg5MjczNSw1Nj
+E5ODI4NTQsMTM4ODQ3MjQsNTQwNDQxMzIwLC00MzcxNDU4ODUs
+LTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQsMTc5NT
+YxOTkwN119
 -->
