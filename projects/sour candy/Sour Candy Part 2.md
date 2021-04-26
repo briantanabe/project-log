@@ -26,10 +26,9 @@ A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/mast
 I want to more hands on experience this time, so I won't be testing a rigid strategy but rather experimenting and documenting results. 
 
 
-## Strategy
+## Experimentation
 
-#### Cornstarch Recipe (r01)
-| Recipe | Trial 1 | Trial 2 | Trial 3 |
+| Goal | Trial 1 | Trial 2 | Trial 3 |
 |-|-|-|-|
 |Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
 
@@ -37,9 +36,11 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 **Trial 2:** The lime juice did not congeal as quickly, but after leaving unstirred for a few minutes, also bubbled, congealed, and was lightly scorched
 
-**
+**Trial 3:** The mixture quickly formed a homogenous goo and did not burn (thanks to constant stirring). After 10 minutes I poured the goo into a separate container.
+
+While Finer Cooking's 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODM1NTE5OCw1NDA0NDEzMjAsLTQzNz
+eyJoaXN0b3J5IjpbLTE3MjQ5NDE3MSw1NDA0NDEzMjAsLTQzNz
 E0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwtMTc0ODIyNTI3
 NCwxNzk1NjE5OTA3XX0=
 -->
