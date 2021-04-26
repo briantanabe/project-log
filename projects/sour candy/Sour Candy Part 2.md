@@ -44,11 +44,9 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 I'm a bit worried about incorporating the goo, as cornstarch has a tendency to clump, especially when exposed to heat. I'm also not quite sure what the proportion of sugar and cornstarch is supposed to be, and I don't have that much cornstarch mixture. So we'll see how this goes...
 
-| Goal | Trial 1 | Trial 2 | Trial 3 |
-|-|-|-|-|
-|Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDE5NzUxLDU2MTk4Mjg1NCwxMzg4ND
-cyNCw1NDA0NDEzMjAsLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0
-NjAwNjcyNSwtMTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbMTEzMDg5MjczNSw1NjE5ODI4NTQsMTM4OD
+Q3MjQsNTQwNDQxMzIwLC00MzcxNDU4ODUsLTQ3MzYyNzcyLDE2
+NDYwMDY3MjUsLTE3NDgyMjUyNzQsMTc5NTYxOTkwN119
 -->
