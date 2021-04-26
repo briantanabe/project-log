@@ -23,7 +23,7 @@ A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/mast
 >|Soak in alcohol then dry|X|
 >|Roll in citric acid and sugar | 4:1 citric acid to sugar
 
-I want to more hands on experience this time around taking photos and testing this recipe, so I'm just going to make three variations of this recipe in a larger quantity!
+I want to more hands on experience this time around taking photos and testing this recipe, so I won't be testing
 
 Additionally, given how hectic the kitchen can be, I'm also going to play with the ordering and descriptions of instructions to make the recipes easier to follow on the spot.
 
@@ -42,7 +42,7 @@ Additionally, given how hectic the kitchen can be, I'm also going to play with t
 |Soak in Everclear then dry|X|X|X
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNDQxMzIwLC00MzcxNDU4ODUsLTQ3Mz
-YyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQsMTc5NTYxOTkw
-N119
+eyJoaXN0b3J5IjpbLTE5NDU4MDI5MjEsNTQwNDQxMzIwLC00Mz
+cxNDU4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUy
+NzQsMTc5NTYxOTkwN119
 -->
