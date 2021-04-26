@@ -40,9 +40,9 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 **Trial 3:** The mixture quickly formed a homogenous goo and did not burn (thanks to constant stirring). After 10 minutes I poured the goo into a separate container. While Finer Cooking's thickeners page suggested the cornstarch mixture should bubble then simmer, I suspect the article was written about solutions with lower concentrations of cornstarch.
 
-**Sugar Syrup:** Previously I wasn't quite sure what the purpose of the sugar was in all of the recipes, but after consulting [The Joy of Baking](https://www.joyofbaking.com/StagesOfCookedSugar.html), I'm beginning to think the 290º F target in Claire's reci means 
+**Sugar Syrup:** Previously I wasn't quite sure what the purpose of the sugar was in all of the recipes, but after consulting [The Joy of Baking](https://www.joyofbaking.com/StagesOfCookedSugar.html), I'm beginning to think the 290º F target in Claire's recipe was to ride the line between soft and hard crack stage. Since I still don't have a candy thermometer, I'll be using this [BBC](https://www.bbc.co.uk/food/techniques/how_to_test_for_stages_of_sugar_syrup#:~:text=To%20check%20your%20sugar%20syrup,up%20the%20ball%20of%20syrup.) hack of cooling samples of the sugar syrup in ice water as it cools. Once the target soft/hard crack texture is reached, I'll cut the heat and begin slowly incorporating the cornstarch goo. I'm a bit worried 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY0OTg2MjYsMTM4ODQ3MjQsNTQwND
-QxMzIwLC00MzcxNDU4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUs
-LTE3NDgyMjUyNzQsMTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbMTIwNzUxNDQ1NSwxMzg4NDcyNCw1NDA0ND
+EzMjAsLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwt
+MTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
 -->
