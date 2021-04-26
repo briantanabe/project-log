@@ -42,9 +42,13 @@ I want to more hands on experience this time, so I won't be testing a rigid stra
 
 **Sugar Syrup:** Previously I wasn't quite sure what the purpose of the sugar was in all of the recipes, but after consulting [The Joy of Baking](https://www.joyofbaking.com/StagesOfCookedSugar.html), I'm beginning to think the 290º F target in Claire's recipe was to ride the line between soft and hard crack stage. Since I still don't have a candy thermometer, I'll be using this [BBC](https://www.bbc.co.uk/food/techniques/how_to_test_for_stages_of_sugar_syrup#:~:text=To%20check%20your%20sugar%20syrup,up%20the%20ball%20of%20syrup.) hack of cooling samples of the sugar syrup in ice water as it cools. Once the target soft/hard crack texture is reached, I'll cut the heat and begin slowly incorporating the cornstarch goo.
 
-I'm a bit worried about incorporating the goo, as cornstarch has a tendency to clump, especially when exposed to heat. We'll see how this round goes, and 
+I'm a bit worried about incorporating the goo, as cornstarch has a tendency to clump, especially when exposed to heat. I'm also not quite sure what the proportion of sugar and cornstarch is supposed to be, and I don't have that much cornstarch mixture. So we'll see how this goes...
+
+| Goal | Trial 1 | Trial 2 | Trial 3 |
+|-|-|-|-|
+|Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, 2 Tsp cornstarch 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxOTgyODU0LDEzODg0NzI0LDU0MDQ0MT
-MyMCwtNDM3MTQ1ODg1LC00NzM2Mjc3MiwxNjQ2MDA2NzI1LC0x
-NzQ4MjI1Mjc0LDE3OTU2MTk5MDddfQ==
+eyJoaXN0b3J5IjpbLTI5MDE5NzUxLDU2MTk4Mjg1NCwxMzg4ND
+cyNCw1NDA0NDEzMjAsLTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0
+NjAwNjcyNSwtMTc0ODIyNTI3NCwxNzk1NjE5OTA3XX0=
 -->
