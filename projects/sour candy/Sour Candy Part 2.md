@@ -23,26 +23,19 @@ A quick recap from [Part 1](https://github.com/briantanabe/project-log/blob/mast
 >|Soak in alcohol then dry|X|
 >|Roll in citric acid and sugar | 4:1 citric acid to sugar
 
-I want to more hands on experience this time around taking photos and testing this recipe, so I won't be testing
+I want to more hands on experience this time, so I won't be testing a rigid strategy but rather experimenting and documenting results. 
 
-Additionally, given how hectic the kitchen can be, I'm also going to play with the ordering and descriptions of instructions to make the recipes easier to follow on the spot.
-
-
-**Finally**, according to [Fine Cooking](https://www.finecooking.com/article/thickeners), cornstarch should be simmered below boiling for *"several minutes"* to cook off the starch flavor, hence instruction 1. Additionally, *"cornstarch is prone to clumping when exposed to hot liquids,"* hence instruction 3. I cut the coating instruction for this time around to better focus on the texture. 
 
 ## Strategy
 
 #### Cornstarch Recipe (r01)
-| Instruction | Trial A | Trial B | Trial C |
+| Recipe | Trial 1 | Trial 2 | Trial 3 |
 |-|-|-|-|
-|Bring *mixture 1* and let simmer for 10 minutes before cutting heat | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, .125 cup cornstarch 
-|Bring *mixture 2* to 290º F | 1 cup sugar, 1 cup water | 1 cup sugar, 1.25 cup water | 1.25 cup sugar, 1 cup water
-|Stir mixture 1 into mixture 2 slowly while whisking until smooth | X | X | X
-|Pour onto greased parchment and chill | X | X | X
-|Soak in Everclear then dry|X|X|X
+|Simmer citrus juice and cornstarch | .5 cup lime juice, .5 cup cornstarch | .5 cup lime juice, .25 cup cornstarch | .5 cup lime juice, .125 cup cornstarch 
 
+On the fir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU4MDI5MjEsNTQwNDQxMzIwLC00Mz
-cxNDU4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUy
-NzQsMTc5NTYxOTkwN119
+eyJoaXN0b3J5IjpbMzQyODkxMzcsNTQwNDQxMzIwLC00MzcxND
+U4ODUsLTQ3MzYyNzcyLDE2NDYwMDY3MjUsLTE3NDgyMjUyNzQs
+MTc5NTYxOTkwN119
 -->
