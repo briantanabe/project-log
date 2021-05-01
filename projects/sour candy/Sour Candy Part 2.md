@@ -3,7 +3,7 @@
 ## Overview
 Check out [Part 1](https://github.com/briantanabe/project-log/blob/master/projects/sour%20candy/Sour%20Candy%20Part%201.md) if you missed it, but the overarching goal is to practice documenting a project while doing it! The task at hand is **recreating sour patch kids**, and I think this time around I have some better ideas. Namely, I will be starting with a variation of the cornstarch based recipe I used the last time around.
 
-*Started on Friday, April 23 at 5:00PM*
+```[comment]: <> (This is a comment, it will not be included)```*Started on Friday, April 23 at 5:00PM*
 
 ## Goals
 1. Refine the cornstarch based recipe
@@ -49,8 +49,8 @@ I'm a bit worried about incorporating the goo, as cornstarch has a tendency to c
 Determining the softball stage was tough given that the sugar would change texture against the bottom of the pot, and I had never made sugar syrup before. Nevertheless, once it seemed to *crack* under a spoon, I added in all of the cornstarch mixture. I tried to mix it well enough while preparing a parchment sheet with cornstarch dusted on it. I poured the entire mixture once it seemed homogenized, then put in the freezer. It looked like there may have been clumps of cornstarch, but it was tough to tell with the sugar bubbles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkxODM3NTMsMTE3Mzg0Njc5NSwxMT
-MwODkyNzM1LDU2MTk4Mjg1NCwxMzg4NDcyNCw1NDA0NDEzMjAs
-LTQzNzE0NTg4NSwtNDczNjI3NzIsMTY0NjAwNjcyNSwtMTc0OD
-IyNTI3NCwxNzk1NjE5OTA3XX0=
+eyJoaXN0b3J5IjpbLTQ0OTI5MTEzMiwtMTMwOTE4Mzc1MywxMT
+czODQ2Nzk1LDExMzA4OTI3MzUsNTYxOTgyODU0LDEzODg0NzI0
+LDU0MDQ0MTMyMCwtNDM3MTQ1ODg1LC00NzM2Mjc3MiwxNjQ2MD
+A2NzI1LC0xNzQ4MjI1Mjc0LDE3OTU2MTk5MDddfQ==
 -->
