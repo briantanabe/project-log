@@ -6,7 +6,6 @@
 
 **I  love sour patch kids**, and after hitting [Google](http://www.grouprecipes.com/137183/homemade-sour-patch-kids.html), it looked pretty straightforward. I'm sure it will be harder than it looks (*[ahem](https://www.youtube.com/watch?v=ppi0khS0s_8)*), so I decided to give it a shot and learn how to fail.
 
-*Started on Tuesday, April 13 at 8:30PM*
 
 ## Goals
 The goals here are pretty straightforward:
@@ -163,5 +162,5 @@ Between making the gels and taste testing them, I had totally forgotten that cor
 - Take better pictures!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzUwMzc0NF19
+eyJoaXN0b3J5IjpbLTEyOTc0MzkxOCwxNjgzNTAzNzQ0XX0=
 -->
